@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "95", "target_id": "89", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The products differ in color (yellow vs black), model numbers (CLI8Y vs PGI-5BK), and compatible printer families, indicating they are distinct cartridges despite similar price.", "parse_error": false}, "tokens": 577}

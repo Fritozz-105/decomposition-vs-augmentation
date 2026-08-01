@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1044", "target_id": "999", "verdict": "NO MATCH", "confidence": 0.86, "reasoning": "The model numbers differ (ln46a850 vs ln46a860), indicating distinct SKUs despite similar size and specs; model number differences usually denote different products.", "parse_error": false}, "tokens": 740}

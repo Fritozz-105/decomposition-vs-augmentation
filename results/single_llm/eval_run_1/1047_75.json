@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1047", "target_id": "75", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SC1A vs VMPR1B) and intended applications (LCD TV mount vs projector mount) despite both being 50\u202flb ceiling mounts; product names and descriptions do not align.", "parse_error": false}, "tokens": 602}

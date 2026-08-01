@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "68", "target_id": "222", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings refer to a Danby portable dishwasher with nearly identical model numbers (ddw1805wh vs ddw1805w) and similar description details; the missing 'h' is likely a minor typo, indicating the same product.", "parse_error": false}, "tokens": 675}

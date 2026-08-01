@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "955", "target_id": "313", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (BDPS550 vs DVP-NS57P), one is a Blu-ray player and the other a DVD player, and their feature sets and price differ significantly.", "parse_error": false}, "tokens": 662}

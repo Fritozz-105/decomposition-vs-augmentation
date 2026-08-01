@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "740", "target_id": "885", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (46\" vs 37\"), distinct model numbers (KDL46Z4100B vs KDL-37XBR6), and different series (Z vs XBR) indicate they are separate products.", "parse_error": false}, "tokens": 712}

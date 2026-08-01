@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "854", "target_id": "503", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different capacities (2TB vs 320GB), distinct model numbers (301239u vs 301829), and different feature sets (Ethernet-enabled Big Disk vs USB-only Little Disk), indicating they are separate products.", "parse_error": false}, "tokens": 650}

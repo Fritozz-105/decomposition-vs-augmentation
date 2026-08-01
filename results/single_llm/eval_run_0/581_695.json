@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "581", "target_id": "695", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (ln32a450 vs ln22a450) and screen sizes (32\" vs 22\"), distinct specifications and descriptions indicate they are separate products.", "parse_error": false}, "tokens": 702}

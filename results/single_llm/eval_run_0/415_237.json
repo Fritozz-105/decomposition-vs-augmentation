@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "415", "target_id": "237", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The product names and model numbers differ (SCC1 vs SP4TK1), manufacturers are different, and descriptions reference distinct features, indicating they are separate satellite radio receivers.", "parse_error": false}, "tokens": 621}

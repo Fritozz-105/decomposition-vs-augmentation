@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "982", "target_id": "1037", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The listings have different model numbers (MB471LLA vs MB467LLA), distinct form factors (15.4\" MacBook Pro vs 13.3\" MacBook), different CPUs, graphics, storage, and a large price gap, indicating they are separate products.", "parse_error": false}, "tokens": 831}

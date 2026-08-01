@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "270", "target_id": "346", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (nn\u2011sd667s vs nnsd797s), as do key specs such as capacity (1.2\u202fcu\u202fft vs 1.6\u202fcu\u202fft) and product series, indicating they are distinct microwave models.", "parse_error": false}, "tokens": 678}

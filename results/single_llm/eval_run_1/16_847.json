@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "16", "target_id": "847", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers differ (Tob165WH vs Tob-155) and product A includes specific features (Exact Heat sensor, 0.5 cu ft capacity) not mentioned for B, indicating they are distinct models despite similar brand and price range.", "parse_error": false}, "tokens": 644}

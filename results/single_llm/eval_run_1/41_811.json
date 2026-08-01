@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "41", "target_id": "811", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The core model number (mmv4205) is the same, but the suffixes differ (bt vs baq) indicating different finishes/variants, and only Product A specifies a bisque finish, suggesting they are distinct SKUs.", "parse_error": false}, "tokens": 743}

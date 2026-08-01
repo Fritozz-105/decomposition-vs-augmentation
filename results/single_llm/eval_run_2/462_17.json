@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "462", "target_id": "17", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different model numbers (wet54g vs wre54g) and distinct product names, indicating they are separate Linksys bridge models despite both being wireless\u2011G bridges.", "parse_error": false}, "tokens": 621}

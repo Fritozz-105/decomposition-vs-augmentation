@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "970", "target_id": "367", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (v470 vs v220) and different specifications (laser vs optical, Apple-specific vs generic notebooks). The product names and model codes do not match, indicating distinct products.", "parse_error": false}, "tokens": 612}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "796", "target_id": "259", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (0763B001 vs 1133B001) and refer to different charger types; product A is for NB-2L/NB-2LH batteries while product B is a CB-2LX charger, indicating distinct products.", "parse_error": false}, "tokens": 659}

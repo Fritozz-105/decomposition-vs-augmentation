@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "203", "target_id": "275", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The part numbers differ (010-10723-03 vs 010-10823-00), the compatible device list is only given for A, and the price gap suggests distinct items.", "parse_error": false}, "tokens": 632}

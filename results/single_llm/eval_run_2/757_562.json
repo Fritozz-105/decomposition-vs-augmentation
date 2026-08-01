@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "757", "target_id": "562", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (32\" vs 46\"), different display technologies (LCD vs plasma), and distinct model numbers (TC32LZ800 vs TH-46PZ80U), indicating they are different products.", "parse_error": false}, "tokens": 650}

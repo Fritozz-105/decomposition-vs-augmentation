@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "991", "target_id": "590", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (22AV500U vs 22LV505) and distinct feature sets (A lacks a DVD player and contrast/response specs that B lists), indicating they are separate products.", "parse_error": false}, "tokens": 681}

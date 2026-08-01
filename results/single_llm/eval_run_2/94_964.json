@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "94", "target_id": "964", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different colors (magenta vs gray) and distinct model numbers (CLI8PM vs CLI-221/2950B001), indicating they are separate ink cartridges for different printers.", "parse_error": false}, "tokens": 580}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "447", "target_id": "411", "verdict": "NO MATCH", "confidence": 0.93, "reasoning": "The model numbers differ (SA750PU vs SA745PU) and the supported screen size ranges are different (up to 50\" vs up to 45\"). Despite both being Peerless articulating wall arms, these details indicate distinct products.", "parse_error": false}, "tokens": 721}

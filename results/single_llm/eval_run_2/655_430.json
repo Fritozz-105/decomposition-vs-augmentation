@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "655", "target_id": "430", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers, capacities (500GB vs 250GB), interfaces (eSATA vs USB 2.0), speeds (7200\u202frpm vs 5400\u202frpm) and distinct product lines, indicating they are different products.", "parse_error": false}, "tokens": 716}

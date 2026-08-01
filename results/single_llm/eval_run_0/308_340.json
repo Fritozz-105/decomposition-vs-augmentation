@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "308", "target_id": "340", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The model numbers, capacities (1.6 cu ft vs 0.8 cu ft), and power ratings (1250W vs 800W) differ significantly, indicating distinct microwave models.", "parse_error": false}, "tokens": 647}

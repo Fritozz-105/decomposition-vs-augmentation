@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "359", "target_id": "158", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (mf209b1 vs mf110-b1), different weight capacities (60\u202flb vs 100\u202flb) and distinct product names, indicating they are separate Sanus wall mount models.", "parse_error": false}, "tokens": 629}

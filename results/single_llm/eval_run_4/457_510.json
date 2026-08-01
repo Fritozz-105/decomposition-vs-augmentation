@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "457", "target_id": "510", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (FS10 vs FS11) and distinct specifications; FS10 includes details like 8GB internal flash and 48x zoom, while FS11 is a separate model. This indicates they are different products.", "parse_error": false}, "tokens": 663}

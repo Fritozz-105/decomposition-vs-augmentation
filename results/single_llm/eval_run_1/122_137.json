@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "122", "target_id": "137", "verdict": "MATCH", "confidence": 0.92, "reasoning": "Both listings reference the Uniden TCX905 handset accessory; product names and key features (handset, caller ID) align, and the lack of price for A does not conflict with B's price.", "parse_error": false}, "tokens": 659}

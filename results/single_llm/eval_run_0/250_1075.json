@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "250", "target_id": "1075", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (TG6702B vs TG9391T), distinct technology (5.8\u202fGHz FHSS vs DECT 6.0), different feature sets (expandable up to 8 handsets vs two-line combo), and price gap indicate they are separate products.", "parse_error": false}, "tokens": 713}

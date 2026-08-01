@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "869", "target_id": "977", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different series and model numbers (VGNZ591UB vs VGN AW110J/H), distinct screen sizes (13.1\" vs 18.4\"), different CPUs, GPUs, and other specifications, indicating they are separate products.", "parse_error": false}, "tokens": 901}

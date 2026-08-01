@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "802", "target_id": "192", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a DVD/VCR combo player (model SDV296) while Product B is a lithium-ion battery (model MEDB05LX) for a portable DVD player; different functions, model numbers, and price ranges indicate they are distinct products.", "parse_error": false}, "tokens": 631}

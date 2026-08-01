@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "842", "target_id": "676", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different colors (blue vs pink), different model identifiers (mb13bluseev2 vs mba-pnk-see) and distinct descriptions, indicating they are separate Speck Seethru cases.", "parse_error": false}, "tokens": 632}

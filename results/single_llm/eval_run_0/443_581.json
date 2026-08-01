@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "443", "target_id": "581", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference Sony Handycam model HDRHC9 (HDR-HC9) with identical key specs (16:9, 2.7\" LCD) despite different description detail; price difference is not contradictory.", "parse_error": false}, "tokens": 709}

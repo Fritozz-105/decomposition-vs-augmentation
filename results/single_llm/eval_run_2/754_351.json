@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "754", "target_id": "351", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (RDR-VX560 vs DVP-NS57P), distinct functionalities (combo DVD/VHS recorder vs DVD-only player), and large price difference indicate they are not the same product.", "parse_error": false}, "tokens": 673}

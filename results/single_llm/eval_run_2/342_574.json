@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "342", "target_id": "574", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different manufacturers (Canon vs Sony), different model numbers (EOS 40D vs DSC-T300), distinct camera types (DSLR body only vs compact point-and-shoot), and specifications differ despite both being 10.1 MP.", "parse_error": false}, "tokens": 646}

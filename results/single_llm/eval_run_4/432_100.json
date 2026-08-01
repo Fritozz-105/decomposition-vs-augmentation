@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "432", "target_id": "100", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different colors (green vs black), different model numbers (CLI8G vs PG-50), and are compatible with different printer models, indicating they are distinct products.", "parse_error": false}, "tokens": 596}

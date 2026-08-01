@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1012", "target_id": "95", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers and product types; A is a Mac-specific Edge keyboard, B is a Media Desktop keyboard/mouse combo with a laser mouse, indicating distinct products.", "parse_error": false}, "tokens": 638}

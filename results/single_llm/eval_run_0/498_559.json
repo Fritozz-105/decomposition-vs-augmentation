@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "498", "target_id": "559", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different model numbers (TH50PX80U vs TH-46PZ85U), different screen sizes (50\" vs 46\"), and different resolutions (1366x768 vs 1920x1080), indicating they are distinct products.", "parse_error": false}, "tokens": 696}

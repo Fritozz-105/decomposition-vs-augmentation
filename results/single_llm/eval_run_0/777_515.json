@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "777", "target_id": "515", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (kxth1212b vs kx-tg4323b) and distinct specifications (DECT 6.0 Bluetooth vs 5.8\u202fGHz cordless), indicating they are separate products.", "parse_error": false}, "tokens": 671}

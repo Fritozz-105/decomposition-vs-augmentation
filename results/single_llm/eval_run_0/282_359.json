@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "282", "target_id": "359", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings use different product lines (Microsaver vs Combosaver Ultra) and distinct model numbers (64068f vs K64516US); one is a keyed lock while the other is a combination lock, indicating they are different products.", "parse_error": false}, "tokens": 596}

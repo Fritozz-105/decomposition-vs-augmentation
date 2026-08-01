@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1066", "target_id": "797", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Product A specifies a detailed package (receiver + Boston Acoustics speakers) with model DHT589BA, while Product B is a different model (DHT-FS5) with only a generic 5.1 description, indicating distinct products.", "parse_error": false}, "tokens": 700}

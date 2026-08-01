@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1076", "target_id": "400", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a keyboard and mouse combo with model 920000264, while Product B is a standalone mouse (v470) with a different model number; descriptions and product types differ.", "parse_error": false}, "tokens": 588}

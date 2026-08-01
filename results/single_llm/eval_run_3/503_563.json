@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "503", "target_id": "563", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (th42pz85u vs th-42px80u) and the specifications conflict (1080p 1920x1080 vs 1024x768), indicating distinct products.", "parse_error": false}, "tokens": 719}

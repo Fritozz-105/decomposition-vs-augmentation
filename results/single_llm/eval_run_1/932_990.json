@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "932", "target_id": "990", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different series (CS vs NS), distinct model numbers (VGNCS180JQ vs VGNNS190J/S), different CPU models, screen sizes, storage capacities, and other specifications, indicating they are separate products.", "parse_error": false}, "tokens": 884}

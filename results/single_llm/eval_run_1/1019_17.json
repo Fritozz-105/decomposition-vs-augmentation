@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1019", "target_id": "17", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (WPC600N vs WRE54G), distinct product types (notebook adapter vs range expander/bridge), and different wireless standards (dual-band N vs wireless\u2011G).", "parse_error": false}, "tokens": 587}

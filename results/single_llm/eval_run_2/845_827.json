@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "845", "target_id": "827", "verdict": "NO MATCH", "confidence": 0.92, "reasoning": "Both are Speck Seethru cases for a 15\" MacBook, but the model numbers differ (mb15clrseev2 vs mb15-pur-see-v2) indicating clear vs purple color variants, and the descriptions mention different colors, so they are distinct SKUs.", "parse_error": false}, "tokens": 745}

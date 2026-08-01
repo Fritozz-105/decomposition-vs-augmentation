@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "516", "target_id": "600", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (19LV506 vs 19AV500U), one is a DVD combo with built-in player and white finish, the other is a standard LCD TV in piano black, indicating distinct products.", "parse_error": false}, "tokens": 659}

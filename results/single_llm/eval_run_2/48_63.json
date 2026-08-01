@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "48", "target_id": "63", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the Omnimount TV top shelf mount and include the model identifier CCH1B; descriptions align on the same product type, and price difference is not contradictory.", "parse_error": false}, "tokens": 647}

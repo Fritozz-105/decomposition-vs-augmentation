@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "570", "target_id": "690", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (ln52a650 vs hl56a650), different screen sizes (52\" vs 56\"), and different display technologies (LCD flat panel vs DLP projection), indicating they are distinct products.", "parse_error": false}, "tokens": 716}

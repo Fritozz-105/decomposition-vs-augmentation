@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "510", "target_id": "591", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (19lv505 vs 19lv506), different colors (black vs white), and distinct feature sets; these differences indicate they are separate products.", "parse_error": false}, "tokens": 678}

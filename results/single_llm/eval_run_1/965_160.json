@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "965", "target_id": "160", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Names are similar but model numbers differ (lt25b1 vs mt25-b1), indicating distinct product variants; descriptions and specifications do not align, and price information is missing for B.", "parse_error": false}, "tokens": 696}

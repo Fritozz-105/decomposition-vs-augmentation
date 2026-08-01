@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "157", "target_id": "207", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (DCM290 vs DCM390), which denote distinct products. Prices also differ substantially, supporting that they are separate items despite similar descriptions.", "parse_error": false}, "tokens": 604}

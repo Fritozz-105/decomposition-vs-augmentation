@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "535", "target_id": "140", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (kxtg9333t vs kx-tg6700b), distinct specifications (6.0 DECT vs 5.8\u202fGHz FHSS, different handset counts), and different pricing, indicating they are separate products.", "parse_error": false}, "tokens": 709}

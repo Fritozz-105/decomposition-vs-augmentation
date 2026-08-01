@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "963", "target_id": "98", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a 4-color cartridge pack (model 2946B004) while Product B is a single magenta cartridge (model 0625B002); different model numbers, quantities, and prices indicate distinct products.", "parse_error": false}, "tokens": 656}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "44", "target_id": "197", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SCDCE595 vs CDP-CX455), distinct feature sets (Super Audio CD support vs standard CD/MP3), and price discrepancy indicate they are separate products.", "parse_error": false}, "tokens": 609}

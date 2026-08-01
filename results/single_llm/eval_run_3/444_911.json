@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "444", "target_id": "911", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different brands (Sony vs Olympus), distinct model numbers (DSCW120 vs FE-370), differing megapixels, optical zoom, and LCD size indicate they are separate products.", "parse_error": false}, "tokens": 642}

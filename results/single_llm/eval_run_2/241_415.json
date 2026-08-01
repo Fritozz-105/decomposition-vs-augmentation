@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "241", "target_id": "415", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (lcs-twa/r vs lcs-twa/b) and distinct colors and descriptions, indicating they are separate variants rather than the same product.", "parse_error": false}, "tokens": 625}

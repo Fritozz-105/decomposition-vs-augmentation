@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "160", "target_id": "4", "verdict": "MATCH", "confidence": 0.97, "reasoning": "Both listings reference the Netgear ProSafe JFS516NA 16\u2011port 10/100 rackmount switch; the model number and key specs match despite minor naming differences.", "parse_error": false}, "tokens": 628}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "670", "target_id": "815", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings target different MacBook models (Air vs 15\" Pro) and have distinct model numbers (mbaclrsee vs mb15-clr-see-v2), indicating they are separate products despite similar brand and clear case style.", "parse_error": false}, "tokens": 659}

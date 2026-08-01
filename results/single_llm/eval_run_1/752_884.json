@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "752", "target_id": "884", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The model numbers (wd65835 vs wd-60735), screen sizes (65\" vs 60\"), and series identifiers differ, indicating distinct products despite both being Mitsubishi DLP projection TVs.", "parse_error": false}, "tokens": 674}

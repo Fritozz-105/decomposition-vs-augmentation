@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "292", "target_id": "965", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The products have different colors (black vs yellow), different model numbers (PG50 vs CLI-221), and distinct prices, indicating they are separate items.", "parse_error": false}, "tokens": 526}

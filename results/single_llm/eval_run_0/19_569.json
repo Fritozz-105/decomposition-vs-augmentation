@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "19", "target_id": "569", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The product names, model numbers, load capacities (20\u202flb vs 200\u202flb), finish (black vs anthracite), and prices differ significantly, indicating they are distinct items.", "parse_error": false}, "tokens": 626}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "535", "target_id": "140", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxtg9333t vs kx-tg6700b), distinct technologies (DECT 6.0 vs 5.8\u202fGHz FHSS), and differing feature sets indicate they are separate products.", "parse_error": false}, "tokens": 746}

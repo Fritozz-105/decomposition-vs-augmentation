@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "766", "target_id": "457", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (0101082303 vs 010-10815-00) and there is no overlapping description; price information also differs, indicating distinct products.", "parse_error": false}, "tokens": 650}

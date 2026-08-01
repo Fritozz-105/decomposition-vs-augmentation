@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "37", "target_id": "394", "verdict": "MATCH", "confidence": 0.6, "reasoning": "Both listings are Sharp over\u2011the\u2011counter microwaves with 1100\u202fW power; the detailed specs of Product A match the generic description of Product B, suggesting they refer to the same model despite missing details in B.", "parse_error": false}, "tokens": 732}

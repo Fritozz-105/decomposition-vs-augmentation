@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "224", "target_id": "261", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (W11C vs MS-450CS), distinct cut types and sheet capacities, and price disparity indicate they are separate shredder models.", "parse_error": false}, "tokens": 638}

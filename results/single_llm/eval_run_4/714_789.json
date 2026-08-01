@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "714", "target_id": "789", "verdict": "MATCH", "confidence": 0.7, "reasoning": "Both listings describe an LG freestanding gas range with a 5.0 cu ft capacity; the detailed model in A (LRG30357SS) fits the generic description in B, indicating they likely refer to the same product despite B's lack of specifics.", "parse_error": false}, "tokens": 800}

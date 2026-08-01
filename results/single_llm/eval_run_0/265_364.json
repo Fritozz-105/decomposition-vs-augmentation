@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "265", "target_id": "364", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings use the Altec Lansing InMotion IM600 model name; product A adds 'ipod' and 'usb' details but otherwise describes the same portable audio speaker system, indicating they refer to the same product.", "parse_error": false}, "tokens": 645}

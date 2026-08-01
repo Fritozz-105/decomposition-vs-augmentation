@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "175", "target_id": "279", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference an Avalon Series wood TV stand with a 48-inch width; the model numbers (swp48 vs abs48) are similar and likely refer to the same product despite missing brand info in B.", "parse_error": false}, "tokens": 705}

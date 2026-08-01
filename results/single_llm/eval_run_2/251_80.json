@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "251", "target_id": "80", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (LCS-TWA/B vs LCS-CST), distinct descriptions (leather case for Cyber-shot W/T series vs generic soft case for ultra-compact cameras), and price discrepancy indicate they are separate products.", "parse_error": false}, "tokens": 680}

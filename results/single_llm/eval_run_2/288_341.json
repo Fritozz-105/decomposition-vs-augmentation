@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "288", "target_id": "341", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings use the same model identifier GS724TP, describe a 24\u2011port smart switch with PoE and similar port counts, and the naming differences are minor variations; price information is missing for B but does not conflict.", "parse_error": false}, "tokens": 740}

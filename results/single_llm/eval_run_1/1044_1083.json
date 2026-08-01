@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1044", "target_id": "1083", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (LN46A850 vs LN32A450), screen sizes (46\" vs 32\"), and resolutions (1080p vs 720p), indicating they are distinct products.", "parse_error": false}, "tokens": 629}

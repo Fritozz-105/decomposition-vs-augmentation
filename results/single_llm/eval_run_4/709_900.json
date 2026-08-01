@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "709", "target_id": "900", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (32\" vs 52\"), different series (M-series vs W-series) and distinct model numbers (KDL32M4000 vs KDL52W4100), indicating they are different products.", "parse_error": false}, "tokens": 653}

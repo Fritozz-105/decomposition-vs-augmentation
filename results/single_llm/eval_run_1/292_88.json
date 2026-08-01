@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "292", "target_id": "88", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both refer to Canon's black ink cartridge; PG50 is the product name and 0615B002 is the OEM part number for the same PG-50 cartridge, indicating they are the same item despite sparse description for B.", "parse_error": false}, "tokens": 645}

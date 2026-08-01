@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1018", "target_id": "489", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (WGA600N vs WUSB600N) and distinct product descriptions (gaming adapter vs generic USB network adapter) indicate they are separate products despite both being Linksys dual-band wireless-N adapters.", "parse_error": false}, "tokens": 689}

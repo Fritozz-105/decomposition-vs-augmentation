@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "453", "target_id": "505", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings use the same brand (Canon) and model number (Vixia HV30) with nearly identical naming; descriptions and specs align, and the price difference is not contradictory since Product A lacks a price.", "parse_error": false}, "tokens": 612}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "788", "target_id": "1012", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different manufacturers (Samsung vs Panasonic), distinct model numbers (L200 vs DMC-FZ28), and differing specifications such as zoom range (3x vs 18x) indicate they are separate products.", "parse_error": false}, "tokens": 636}

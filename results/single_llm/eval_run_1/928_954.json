@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "928", "target_id": "954", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (32\" vs 42\"), distinct model numbers (32AV502U vs 42RV535U), and different resolutions (720p vs 1080p) indicate they are separate products.", "parse_error": false}, "tokens": 670}

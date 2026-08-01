@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "850", "target_id": "820", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings differ in target device size (15\" vs 13\" MacBook), color (orange vs pink), and model numbers (mb15orgseev2 vs mb13-pnk-see-v2), indicating distinct products.", "parse_error": false}, "tokens": 619}

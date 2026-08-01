@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "987", "target_id": "1000", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings reference different Canon PowerShot models (sd880is vs sd990is) with distinct specifications such as megapixel count (10 MP vs 14 MP) and optical zoom (4x vs 3.7x), indicating they are not the same product.", "parse_error": false}, "tokens": 685}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "740", "target_id": "892", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and series differ (KDL46Z4100B vs KDL46W4100), indicating distinct Z and W series TVs despite similar size and resolution; descriptions and features also do not match exactly.", "parse_error": false}, "tokens": 757}

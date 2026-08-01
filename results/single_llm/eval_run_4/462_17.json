@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "462", "target_id": "17", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (wet54g vs wre54g) and the product names describe different functions (ethernet bridge vs range expander), indicating distinct items despite both being Linksys wireless\u2011G bridges.", "parse_error": false}, "tokens": 620}

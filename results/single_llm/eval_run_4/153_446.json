@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "153", "target_id": "446", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different model identifiers (dsch2 vs lcs-csq) and mention different materials (polypropylene vs polyamide), indicating distinct camera case models despite both being Sony soft cases.", "parse_error": false}, "tokens": 623}

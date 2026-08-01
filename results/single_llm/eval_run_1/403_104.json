@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "403", "target_id": "104", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings have the same brand, product type, and model number (f5u237apls vs f5u237-apl-s). Despite a vague description in Product B, the matching name and specifications indicate they refer to the same hub.", "parse_error": false}, "tokens": 768}

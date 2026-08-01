@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "365", "target_id": "81", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The products have different model numbers (WPSM54G vs WRV54G) and distinct functions (print server vs VPN router), indicating they are separate items.", "parse_error": false}, "tokens": 572}

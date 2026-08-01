@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "700", "target_id": "331", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The products are from different manufacturers (Plantronics vs Sony) and have distinct model numbers (Audio 920 vs TMRBT10/TMRBT10A). No overlapping specifications or identifiers indicate they are the same item.", "parse_error": false}, "tokens": 583}

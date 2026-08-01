@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "811", "target_id": "1064", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (AVR-1709 vs DHT-589BA) and describe different product types (a receiver vs a complete home theater system), despite similar pricing.", "parse_error": false}, "tokens": 686}

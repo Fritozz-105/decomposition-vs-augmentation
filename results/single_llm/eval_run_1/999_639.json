@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "999", "target_id": "639", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (KX-TG9391T vs KX-TG9333T) and product descriptions indicate distinct product lines; A is a 2-line expandable system, B is a single cordless phone.", "parse_error": false}, "tokens": 728}

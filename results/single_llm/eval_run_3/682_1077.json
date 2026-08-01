@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "682", "target_id": "1077", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different screen sizes (46\" vs 52\"), distinct model numbers (KDL46W4100 vs KDL-52XBR6), and separate series (W-series vs XBR series) indicate they are different products.", "parse_error": false}, "tokens": 744}

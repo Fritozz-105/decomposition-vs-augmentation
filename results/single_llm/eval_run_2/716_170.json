@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "716", "target_id": "170", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different brands (LG vs Sharp), distinct model numbers (LMV1680WH vs R-1214), and different product types (over-the-range vs countertop) indicate they are not the same product.", "parse_error": false}, "tokens": 594}

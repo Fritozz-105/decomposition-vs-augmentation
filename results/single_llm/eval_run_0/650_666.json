@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "650", "target_id": "666", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (ln40a750 vs ln40a650) indicating distinct product variants despite similar size and specs; such differences usually denote separate models.", "parse_error": false}, "tokens": 685}

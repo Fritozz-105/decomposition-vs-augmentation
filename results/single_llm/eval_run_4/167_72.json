@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "167", "target_id": "72", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (ml22b1 vs vm400s), different weight capacities (100\u202flb vs 80\u202flb) and distinct product descriptions indicate they are separate Sanus wall mounts.", "parse_error": false}, "tokens": 621}

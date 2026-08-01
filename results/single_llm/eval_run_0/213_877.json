@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "213", "target_id": "877", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model identifiers (s320 vs ep-320), different fuel types (natural gas vs LP gas), and different colors suggest they are distinct products despite both being Weber Genesis grills.", "parse_error": false}, "tokens": 606}

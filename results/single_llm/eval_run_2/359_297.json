@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "359", "target_id": "297", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different mount types (wall vs ceiling), distinct model numbers (MF209B1 vs SC1A-B1), and different weight capacities indicate they are separate products.", "parse_error": false}, "tokens": 604}

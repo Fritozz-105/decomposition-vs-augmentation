@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "245", "target_id": "215", "verdict": "NO MATCH", "confidence": 0.75, "reasoning": "Product A includes a specific model number and detailed specs, while Product B only gives a generic description without model or specifications, making it impossible to confirm they are the same item.", "parse_error": false}, "tokens": 747}

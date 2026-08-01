@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1019", "target_id": "115", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (WPC600N vs WUSB54GC), support different Wi\u2011Fi standards (dual\u2011band N vs wireless\u2011G), and describe different adapter types, indicating they are distinct products.", "parse_error": false}, "tokens": 588}

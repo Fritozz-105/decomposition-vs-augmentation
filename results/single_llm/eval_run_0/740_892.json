@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "740", "target_id": "892", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers and series differ (KDL46Z4100B vs KDL46W4100), indicating different Bravia lines despite similar size and resolution.", "parse_error": false}, "tokens": 748}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "865", "target_id": "936", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (Coolpix P6000 vs Coolpix S610), different megapixel counts (13.5 MP vs 10 MP) and distinct feature sets, indicating they are separate camera models.", "parse_error": false}, "tokens": 685}

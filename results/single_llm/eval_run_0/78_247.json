@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "78", "target_id": "247", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model identifiers differ (lcscst vs lcscsh) and the descriptions list different materials (nylon vs polypropylene), indicating distinct case variants despite similar branding.", "parse_error": false}, "tokens": 647}

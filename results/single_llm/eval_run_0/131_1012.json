@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "131", "target_id": "1012", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The items have different product types (network security camera vs consumer digital camera), distinct model numbers (BLC1A vs DMC-FZ28), and unrelated specifications, indicating they are not the same product.", "parse_error": false}, "tokens": 618}

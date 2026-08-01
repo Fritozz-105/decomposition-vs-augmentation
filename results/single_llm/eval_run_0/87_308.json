@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "87", "target_id": "308", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (VMPL3B vs MF209-B1), different mount types (tilting vs full motion), and vastly different weight capacities indicate distinct products.", "parse_error": false}, "tokens": 615}

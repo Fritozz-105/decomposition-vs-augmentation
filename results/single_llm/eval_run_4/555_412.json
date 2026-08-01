@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "555", "target_id": "412", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different model numbers (sa745pu vs sa750pu) and distinct product names; despite both being Peerless articulating wall arms, the differing model identifiers indicate they are separate products.", "parse_error": false}, "tokens": 721}

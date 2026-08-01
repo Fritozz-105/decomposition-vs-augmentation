@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "431", "target_id": "71", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (mf215b1 vs vmpl3b), different size specifications, and distinct descriptions indicate they are separate wall mount products.", "parse_error": false}, "tokens": 641}

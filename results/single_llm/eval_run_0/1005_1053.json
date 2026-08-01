@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1005", "target_id": "1053", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings contain the same brand, model number (IMT702) and product line (Inmotion Max) with nearly identical wording; price difference is irrelevant as one listing lacks a price.", "parse_error": false}, "tokens": 627}

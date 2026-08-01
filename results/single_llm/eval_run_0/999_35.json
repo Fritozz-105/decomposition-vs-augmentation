@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "999", "target_id": "35", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers and product types: A is a DECT 6.0 expandable cordless system (KXTG9391T) with multiple handsets, while B is a basic corded phone (KX-TS208W). Descriptions and features do not overlap.", "parse_error": false}, "tokens": 720}

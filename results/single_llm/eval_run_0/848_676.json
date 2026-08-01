@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "848", "target_id": "676", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings differ in color (green vs pink), target device (15\" MacBook vs MacBook Air) and model numbers (mb15grnseev2 vs mba-pnk-see), indicating distinct products.", "parse_error": false}, "tokens": 635}

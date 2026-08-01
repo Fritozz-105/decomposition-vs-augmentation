@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "799", "target_id": "1049", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The product names and model numbers differ (1588b001 vs 3528b001) and descriptions reference different camera compatibility, indicating distinct cases.", "parse_error": false}, "tokens": 620}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "64", "target_id": "52", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (vm400s vs vmpl50-b) and distinct specifications (silver powder\u2011coated tilt mount vs steel mount), indicating they are different products.", "parse_error": false}, "tokens": 639}

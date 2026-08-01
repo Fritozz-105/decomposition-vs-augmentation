@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "223", "target_id": "361", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings use the Electrolux brand and the identical model number EL012A, and both describe an H12 HEPA filter, indicating they refer to the same filter despite minor naming differences.", "parse_error": false}, "tokens": 623}

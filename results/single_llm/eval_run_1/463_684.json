@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "463", "target_id": "684", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The model numbers differ (RX-V363 vs RX-V863), specifications and power output are different, and the price gap is large, indicating distinct products.", "parse_error": false}, "tokens": 706}

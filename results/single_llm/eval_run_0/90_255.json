@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "90", "target_id": "255", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The products have different model numbers (CL41CL vs BCI-6), different formats (ink tank vs multi\u2011color cartridge set), and distinct price points, indicating they are not the same item.", "parse_error": false}, "tokens": 629}

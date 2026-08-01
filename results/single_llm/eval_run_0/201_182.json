@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "201", "target_id": "182", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different series and model numbers (abs48 vs abs32), different sizes (48\" vs 32\"), distinct descriptions and price points, indicating separate products.", "parse_error": false}, "tokens": 600}

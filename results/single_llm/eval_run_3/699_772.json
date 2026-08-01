@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "699", "target_id": "772", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Although capacities are similar, the finishes differ (titanium vs stainless steel) and Product A includes a specific model number (lfc25770tt) not present in Product B, indicating they are distinct SKUs.", "parse_error": false}, "tokens": 723}

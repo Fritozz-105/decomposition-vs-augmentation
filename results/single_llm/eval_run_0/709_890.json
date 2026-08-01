@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "709", "target_id": "890", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers, screen sizes (32\" vs 46\"), series (M-series vs Z-series), and resolutions, indicating they are distinct products.", "parse_error": false}, "tokens": 676}

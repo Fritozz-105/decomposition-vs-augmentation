@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "109", "target_id": "87", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (CL51 vs CLI-8Y/0623B002), one is a high-capacity color cartridge while the other is a single yellow cartridge, and prices differ substantially, indicating distinct products.", "parse_error": false}, "tokens": 619}

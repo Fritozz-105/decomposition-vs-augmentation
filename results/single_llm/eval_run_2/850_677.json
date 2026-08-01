@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "850", "target_id": "677", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is an orange hard shell case for a 15\" MacBook (model mb15orgseev2), while Product B is a clear case for a MacBook Air (model mba-clr-see); different device models, colors, and model numbers indicate distinct products.", "parse_error": false}, "tokens": 681}

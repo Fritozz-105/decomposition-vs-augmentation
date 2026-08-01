@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "200", "target_id": "880", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a camera backpack (Lowepro) while Product B is a Sony digital camera; different product categories, names, specs, and price ranges indicate they are not the same item.", "parse_error": false}, "tokens": 616}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1056", "target_id": "160", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (LRF118B1 vs MT25-B1), distinct product types (full-motion vs tilting), and different specifications, indicating they are separate Sanus wall mounts.", "parse_error": false}, "tokens": 639}

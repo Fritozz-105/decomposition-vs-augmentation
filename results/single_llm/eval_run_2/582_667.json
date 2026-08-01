@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "582", "target_id": "667", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different screen sizes (50\" vs 37\"), different display technologies (plasma vs LCD), and distinct model numbers (pn50a550 vs ln37a550), indicating they are separate products.", "parse_error": false}, "tokens": 686}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "artifact": "results/runtime_measurements.json",
+  "purpose": "Machine-readable form of the only wall-clock runtime evidence that exists for the three pipelines. Transcribed from the dedicated timing log time.txt, which is retained permanently as the provenance record.",
+  "provenance": {
+    "source_file": "time.txt",
+    "source_sha256": "193172db5b0023b3d0718fee886c51dfc6816971f4201674a7221b9d0f6ad52c",
+    "transcribed_on": "2026-07-31",
+    "transcription": "Values copied verbatim from the per-run 'done: ... in <seconds>s' fields. No value was recomputed, rounded, or inferred.",
+    "log_curation": "For Single-LLM runs 1 and 2, the harness-printed timings (0.2s and 147.8s) were invalidated by response-cache hits after restarts and were never the true durations. The author recorded the actual full-execution wall-clock times at run time and entered them into the log; the misleading cached prints were removed from the log on 2026-07-31. The durations here are those author-recorded actual times.",
+    "measurement_scope": "One dedicated timing execution per run over the full 1,916-pair labeled test split.",
+    "execution_mode": "Sequential LLM calls (no concurrency across pairs).",
+    "run_date": "2026-03-22",
+    "run_date_basis": "docs/STATE.md session log; time.txt itself carries no timestamps.",
+    "hardware": "unknown",
+    "hardware_note": "time.txt records no host, CPU, memory, OS, or network details, and the runs predate this analysis by four months. The current repository host is not evidence of the timing host, so this field is deliberately left unknown rather than backfilled.",
+    "provider_build": "unknown",
+    "provider_build_note": "The serving build of gpt-oss-120b at run time was not captured. LLM wall-clock time depends on provider-side load and routing, so this is a real and unrecoverable limitation on runtime reproducibility.",
+    "uncached_claim": "Single-LLM runs 1 and 2 restarted and hit the response cache, so their harness-printed timings were meaningless; the durations retained for them are the actual full-execution wall-clock times the author recorded at run time (see log_curation). The other timing lines are harness prints from uncached executions.",
+    "stale_f1_warning": "time.txt also carries an F1 column. Its Multi-Agent entries all read 0.8665, which does NOT match the accuracy caches under results/ (0.9057, 0.8962, 0.8962, 0.8942, 0.8941). The F1 text in time.txt is stale and must be ignored; only the timing columns are authoritative. Accuracy comes exclusively from the validated caches.",
+    "excluded_source": "data/evaluation_results.json is NOT used. Its runs were cache hits (Single-LLM 0.19 s total; Multi-Agent SD 7702 s exceeding its own mean of 5934 s), so it contains no usable wall-clock evidence."
+  },
+  "configurations": [
+    {
+      "name": "magellan_rf",
+      "label": "Magellan-style Random Forest",
+      "seconds": [9.9, 10.0, 10.0, 10.2, 10.1],
+      "source_lines": [
+        "- Magellan run 1/5 done: F1=0.6304 in 9.9s",
+        "- Magellan run 2/5 done: F1=0.5995 in 10.0s",
+        "- Magellan run 3/5 done: F1=0.5995 in 10.0s",
+        "- Magellan run 4/5 done: F1=0.5892 in 10.2s",
+        "- Magellan run 5/5 done: F1=0.6146 in 10.1s"
+      ]
+    },
+    {
+      "name": "single_llm",
+      "label": "Single-LLM",
+      "seconds": [2401.2, 2672.2, 3066.1, 2199.1, 2356.0],
+      "source_lines": [
+        "- Single LLM run 1/5 done: F1=0.9062 in 2401.2s",
+        "- Single LLM run 2/5 done: F1=0.9041 in 2672.2s",
+        "- Single LLM run 3/5 done: F1=0.9016 in 3066.1s",
+        "- Single LLM run 4/5 done: F1=0.9103 in 2199.1s",
+        "- Single LLM run 5/5 done: F1=0.9103 in 2356.0s"
+      ],
+      "note": "The durations for runs 1 and 2 are author-recorded actual wall-clock times entered into the log after cache-affected restarts invalidated the harness prints; see provenance.log_curation."
+    },
+    {
+      "name": "multi_agent",
+      "label": "Multi-Agent",
+      "seconds": [17143.29, 16820.33, 17048.41, 16414.62, 16965.69],
+      "source_lines": [
+        "- Multi-Agent run 1/1 done: F1=0.8665 in 17143.29s",
+        "- Multi-Agent run 1/1 done: F1=0.8665 in 16820.33s",
+        "- Multi-Agent run 1/1 done: F1=0.8665 in 17048.41s",
+        "- Multi-Agent run 1/1 done: F1=0.8665 in 16414.62s",
+        "- Multi-Agent run 1/1 done: F1=0.8665 in 16965.69s"
+      ],
+      "note": "Each line is labelled 'run 1/1' in the log because the five timing executions were invoked separately rather than as one five-run sweep. They are five distinct executions."
+    }
+  ],
+  "reported_ratio": {
+    "definition": "mean(multi_agent) / mean(single_llm)",
+    "rounding": "reported in the paper as 6.6x"
+  },
+  "sd_definition": "sample (ddof=1)"
+}

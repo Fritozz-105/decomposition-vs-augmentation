@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "611", "target_id": "680", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (LN22A450 vs LN26A450), screen sizes (22\" vs 26\"), resolutions and other specs differ, indicating distinct products.", "parse_error": false}, "tokens": 726}

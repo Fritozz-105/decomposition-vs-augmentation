@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1031", "target_id": "333", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "One is a CompactFlash card (ts8gcf133) and the other is an SDHC card (ts8gsdhc6); different form factors, model numbers, speed classes, and price points indicate distinct products.", "parse_error": false}, "tokens": 687}

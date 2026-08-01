@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "749", "target_id": "460", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The models differ (KXTG9332S vs KX-TGA820B), product A is a 2\u2011handset system with answering machine while product B is a single handset, and descriptions and colors do not match.", "parse_error": false}, "tokens": 640}

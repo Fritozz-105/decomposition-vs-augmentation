@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "142", "target_id": "633", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The items are different product types: one is a camera battery (cgas007a1b) for specific camera models, the other is a cordless phone (KX-TG9372B). Names, descriptions, and functions do not overlap.", "parse_error": false}, "tokens": 593}

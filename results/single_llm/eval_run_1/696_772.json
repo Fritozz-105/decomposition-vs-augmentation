@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "696", "target_id": "772", "verdict": "NO MATCH", "confidence": 0.8, "reasoning": "Product A specifies a model number (LFC25770SW/WH) and a smooth white finish, while Product B lacks a model number, lists a stainless steel finish, and has a slightly different capacity, indicating they are likely different SKUs.", "parse_error": false}, "tokens": 762}

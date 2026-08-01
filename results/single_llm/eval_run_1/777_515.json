@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "777", "target_id": "515", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxth1212b vs kx-tg4323b) and distinct specifications (DECT 6.0 vs 5.8\u202fGHz) indicate they are separate products.", "parse_error": false}, "tokens": 675}

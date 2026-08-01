@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1039", "target_id": "255", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CL211 vs BCI-6/4705A018), target different printer models, and have a large price discrepancy, indicating they are distinct ink cartridge products.", "parse_error": false}, "tokens": 647}

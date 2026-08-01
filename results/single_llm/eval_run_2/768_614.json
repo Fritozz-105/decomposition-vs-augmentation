@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "768", "target_id": "614", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the Peerless PP730 wall arm; Product A provides detailed specs while Product B gives a brief description, but the model number and product type match, indicating they are the same item.", "parse_error": false}, "tokens": 655}

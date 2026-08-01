@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1022", "target_id": "17", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (WUSB600N vs WRE54G), different device types (USB wireless\u2011N adapter vs wireless\u2011G range extender/bridge), and distinct specifications (dual\u2011band N vs 54\u202fMbps G).", "parse_error": false}, "tokens": 606}

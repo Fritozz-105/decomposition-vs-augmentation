@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "176", "target_id": "307", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (mf110b vs lrf118-b1), different mount types (visionmount vs full motion), and different weight capacities indicate distinct products despite both being Sanus TV wall mounts.", "parse_error": false}, "tokens": 641}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "784", "target_id": "934", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CP760 vs MP480), belong to different Canon product lines (Selphy vs Pixma), and describe distinct functionalities (compact photo printer vs all-in-one inkjet).", "parse_error": false}, "tokens": 625}

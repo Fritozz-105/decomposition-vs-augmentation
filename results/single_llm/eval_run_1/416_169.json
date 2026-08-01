@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "416", "target_id": "169", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers and distinct product types: A is an AC wall adapter with international plugs, B is a cigarette lighter (car) adapter; specifications and intended use do not overlap.", "parse_error": false}, "tokens": 590}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "119", "target_id": "160", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (VMAVB vs MT25-B1) and describe different product types (component wall shelf vs tilting flat\u2011panel TV wall mount), indicating they are distinct products.", "parse_error": false}, "tokens": 603}

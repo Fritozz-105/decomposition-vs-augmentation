@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "976", "target_id": "976", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different series and model numbers (RT vs LV, vgcrt150y vs vgclv150j), distinct specifications (CPU, RAM, storage, OS edition, color), and price gap indicate they are separate products.", "parse_error": false}, "tokens": 767}

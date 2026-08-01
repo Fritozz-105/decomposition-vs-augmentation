@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "853", "target_id": "686", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different series (Series 9 vs 4 series), different model numbers (ln55a950 vs ln22a451), and different screen sizes (55\" vs 22\"), indicating distinct products.", "parse_error": false}, "tokens": 695}

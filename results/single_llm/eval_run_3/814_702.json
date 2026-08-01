@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "814", "target_id": "702", "verdict": "MATCH", "confidence": 0.75, "reasoning": "Both listings share the same model code (mdred12lp/mdred12lpslv) and similar price range; despite different brand wording, the code suggests they refer to the same Sony earbud model.", "parse_error": false}, "tokens": 670}

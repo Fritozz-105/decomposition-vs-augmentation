@@ -1,0 +1,20 @@
+Running Magellan...
+- Magellan run 1/5 done: F1=0.6304 in 9.9s
+- Magellan run 2/5 done: F1=0.5995 in 10.0s
+- Magellan run 3/5 done: F1=0.5995 in 10.0s
+- Magellan run 4/5 done: F1=0.5892 in 10.2s
+- Magellan run 5/5 done: F1=0.6146 in 10.1s
+
+Running Single LLM...
+- Single LLM run 1/5 done: F1=0.9062 in 2401.2s
+- Single LLM run 2/5 done: F1=0.9041 in 2672.2s
+- Single LLM run 3/5 done: F1=0.9016 in 3066.1s
+- Single LLM run 4/5 done: F1=0.9103 in 2199.1s
+- Single LLM run 5/5 done: F1=0.9103 in 2356.0s
+
+Running Multi LLM...
+- Multi-Agent run 1/1 done: F1=0.8665 in 17143.29s
+- Multi-Agent run 1/1 done: F1=0.8665 in 16820.33s
+- Multi-Agent run 1/1 done: F1=0.8665 in 17048.41s
+- Multi-Agent run 1/1 done: F1=0.8665 in 16414.62s
+- Multi-Agent run 1/1 done: F1=0.8665 in 16965.69s

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "814", "target_id": "702", "verdict": "MATCH", "confidence": 0.75, "reasoning": "Both listings share the same model identifier (mdred12lp) and similar price range; the brand name differs but likely due to a typo or alternate naming, suggesting they refer to the same product.", "parse_error": false}, "tokens": 665}

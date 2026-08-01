@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "434", "target_id": "98", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a black ink cartridge (model CLI8B) while Product B is a magenta ink cartridge (model CLI-8PM); different colors and model numbers indicate distinct products despite similar pricing.", "parse_error": false}, "tokens": 576}

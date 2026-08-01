@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "657", "target_id": "641", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers differ (KX-TG9361B vs KX-TG9348T), indicating distinct product variants despite similar category and color.", "parse_error": false}, "tokens": 667}

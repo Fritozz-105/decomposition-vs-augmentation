@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "628", "target_id": "568", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a single center channel speaker (CSIA6BK) while Product B is a complete 5.1 home theater system (RM705); names, descriptions, and prices differ significantly, indicating different products.", "parse_error": false}, "tokens": 629}

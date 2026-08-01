@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "299", "target_id": "424", "verdict": "NO MATCH", "confidence": 0.3, "reasoning": "Product A specifies a detailed model (DLE5955W/DLE5955WH) and features, while Product B only gives a generic name without model number or description, making it unclear if they refer to the same specific dryer.", "parse_error": false}, "tokens": 653}

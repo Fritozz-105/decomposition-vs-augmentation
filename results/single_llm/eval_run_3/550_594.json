@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "550", "target_id": "594", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference Panasonic portable DVD player model LS83 (dvdls83), include the same 8.5\" screen size and similar format support, and descriptions overlap on features; price difference is not contradictory.", "parse_error": false}, "tokens": 732}

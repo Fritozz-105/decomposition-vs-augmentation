@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "132", "target_id": "150", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (TSMR1640 vs TS-P462), different speaker sizes and types (6.5\" marine vs 4\"x6\" component), and distinct descriptions, indicating they are not the same product.", "parse_error": false}, "tokens": 659}

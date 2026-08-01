@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "308", "target_id": "345", "verdict": "NO MATCH", "confidence": 0.92, "reasoning": "The model numbers differ (nnsd797s vs nnsd767s) despite similar capacity and finish, indicating distinct product variants.", "parse_error": false}, "tokens": 660}

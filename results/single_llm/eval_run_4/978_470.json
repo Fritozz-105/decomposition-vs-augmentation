@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "978", "target_id": "470", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (3528b001 vs 2349b001), refer to different camera models (PSC-4000 vs PSC-1000), and describe different colors and case types, indicating distinct products.", "parse_error": false}, "tokens": 643}

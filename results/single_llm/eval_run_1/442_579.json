@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "442", "target_id": "579", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (HDR-SR12 vs HDR-SR10), different storage specifications (120GB hard drive vs unspecified), and distinct feature descriptions, indicating they are separate products.", "parse_error": false}, "tokens": 716}

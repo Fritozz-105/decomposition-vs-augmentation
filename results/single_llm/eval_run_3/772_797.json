@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "772", "target_id": "797", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings use the same Denon model identifier (dhtfs5 / dht-fs5) and describe a 5.1 surround sound speaker system, indicating they refer to the same product despite minor naming differences and missing price in B.", "parse_error": false}, "tokens": 648}

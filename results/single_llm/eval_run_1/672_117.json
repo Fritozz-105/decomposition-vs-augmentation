@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "672", "target_id": "117", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a printer (model DPP-FP95) while Product B is a consumable ribbon and paper for a different printer model (DPP-FP50); they differ in product type and model numbers.", "parse_error": false}, "tokens": 617}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1019", "target_id": "489", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different model numbers (WPC600N vs WUSB600N) and distinct product names, indicating they are separate Linksys adapters despite both being dual-band wireless\u2011N USB devices.", "parse_error": false}, "tokens": 709}

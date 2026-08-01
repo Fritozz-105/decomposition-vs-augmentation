@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "117", "target_id": "144", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference the Weber Q300 model; Product B's generic name aligns with Product A's detailed description, indicating they are the same grill despite missing details and price.", "parse_error": false}, "tokens": 602}

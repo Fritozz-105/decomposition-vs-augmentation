@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "270", "target_id": "346", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (nnsd667ss vs nnsd797s) and capacities are different (1.2 cu ft vs 1.6 cu ft), indicating distinct products despite both being Panasonic stainless steel microwaves.", "parse_error": false}, "tokens": 687}

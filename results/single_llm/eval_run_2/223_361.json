@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "223", "target_id": "361", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference Electrolux EL012A H12 HEPA filter; despite different branding words, the model number and filter type match, indicating the same product.", "parse_error": false}, "tokens": 622}

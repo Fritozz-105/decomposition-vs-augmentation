@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "121", "target_id": "371", "verdict": "MATCH", "confidence": 0.65, "reasoning": "Names are very similar despite typos (tivo vs tvio, adapter vs adpator) and both refer to a wireless USB adapter for Tivo; lack of description for B makes certainty lower.", "parse_error": false}, "tokens": 678}

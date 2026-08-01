@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "251", "target_id": "80", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (LCS-TWA/B vs LCS-CST), different material descriptions (leather vs soft fabric), and target different camera series, indicating they are distinct products.", "parse_error": false}, "tokens": 703}

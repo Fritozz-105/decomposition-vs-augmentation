@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "164", "target_id": "52", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (vmuc1s vs vmpl50-b), distinct features (under\u2011cabinet tilting silver mount vs generic steel mount with weight rating), and no overlapping specifications indicate they are separate products.", "parse_error": false}, "tokens": 624}

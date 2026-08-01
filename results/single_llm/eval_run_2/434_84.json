@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "434", "target_id": "84", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Different model numbers (CLI8B vs 0617B002), distinct cartridge types (photo black vs standard black/color), and incompatible printer lists indicate they are not the same product.", "parse_error": false}, "tokens": 750}

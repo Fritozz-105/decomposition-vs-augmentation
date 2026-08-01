@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "623", "target_id": "588", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Model numbers differ (A300K vs A350K) and key specs such as megapixels (10.2 MP vs 14.2 MP) and sensor type differ, indicating distinct camera models despite similar lens and branding.", "parse_error": false}, "tokens": 743}

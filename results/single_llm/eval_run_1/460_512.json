@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "460", "target_id": "512", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different model numbers (lc52se94u vs lc37d44u), screen sizes (52\" vs 37\"), and key specs indicate they are distinct products.", "parse_error": false}, "tokens": 710}

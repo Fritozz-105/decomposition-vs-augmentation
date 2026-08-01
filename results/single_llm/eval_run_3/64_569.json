@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "64", "target_id": "569", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different brands (Sanus vs Omnimount), distinct model numbers (VM400S vs ULPT-L), and dissimilar descriptions (tilt/hinged arm vs low-profile 200\u202flb capacity). Prices are also different, indicating separate products.", "parse_error": false}, "tokens": 644}

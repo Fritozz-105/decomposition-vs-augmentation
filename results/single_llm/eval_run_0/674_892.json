@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "674", "target_id": "892", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (19\" vs 46\"), different series and model numbers (KDL-19M4000S vs KDL-46W4100), and distinct specifications, indicating they are different products.", "parse_error": false}, "tokens": 723}

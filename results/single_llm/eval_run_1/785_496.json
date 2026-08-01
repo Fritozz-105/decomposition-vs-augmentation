@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "785", "target_id": "496", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a 2GB Memory Stick Micro (M2) card with model MSA2GU2, while Product B is an adapter (ADMSCF1) for Memory Stick Duo to CompactFlash, a completely different item.", "parse_error": false}, "tokens": 607}

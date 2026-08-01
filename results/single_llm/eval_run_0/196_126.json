@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "196", "target_id": "126", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (svmf120p vs svmf40p) and pack sizes (120 sheets vs 40 sheets) indicate distinct products despite both being Sony photo printer paper.", "parse_error": false}, "tokens": 617}

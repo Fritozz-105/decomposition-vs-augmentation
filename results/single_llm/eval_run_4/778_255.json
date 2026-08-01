@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "778", "target_id": "255", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (kp-36ip vs bci-6), product A includes photo paper and a single ink set for dye sublimation, while product B is a six-color ink cartridge set; prices and descriptions differ significantly.", "parse_error": false}, "tokens": 675}

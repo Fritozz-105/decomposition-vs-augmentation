@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "27", "target_id": "124", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (WMS3B vs VMCC1B) and describe different mount types (small speaker wall mount vs center channel speaker mount). Materials and specifications differ, indicating distinct products.", "parse_error": false}, "tokens": 602}

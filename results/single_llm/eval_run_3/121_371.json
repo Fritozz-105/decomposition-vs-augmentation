@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "121", "target_id": "371", "verdict": "MATCH", "confidence": 0.65, "reasoning": "Names are very similar despite typos and both refer to a Tivo wireless USB adapter; the specific model number in Product A suggests a match, though lack of description for Product B reduces certainty.", "parse_error": false}, "tokens": 646}

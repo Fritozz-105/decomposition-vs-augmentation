@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "49", "target_id": "225", "verdict": "NO MATCH", "confidence": 0.6, "reasoning": "Product A specifies a particular model (DC50B) and details, while Product B is a generic listing without model or description, making it unclear if they refer to the same item.", "parse_error": false}, "tokens": 659}

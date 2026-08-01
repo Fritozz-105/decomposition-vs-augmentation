@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "280", "target_id": "636", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (kxtga101s vs kx-tg9342t), one is an expansion handset for a 1000 series system while the other is a standalone cordless phone, and colors and descriptions do not align.", "parse_error": false}, "tokens": 690}

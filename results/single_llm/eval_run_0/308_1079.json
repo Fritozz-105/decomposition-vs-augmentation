@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "308", "target_id": "1079", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers, capacities, and specifications differ significantly (1.6 cu ft vs .08 cu ft, nnsd797s vs nn-tk903s), indicating they are different microwave models.", "parse_error": false}, "tokens": 643}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1080", "target_id": "273", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (WRE54G vs WPSM54G) and distinct functions (range expander vs USB print server) indicate they are separate products.", "parse_error": false}, "tokens": 663}

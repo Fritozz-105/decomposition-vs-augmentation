@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "649", "target_id": "719", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (46\" vs 32\"), distinct model numbers (LN46A750 vs LN32A650), and different series (Series 7 vs Series 6) indicate they are separate products.", "parse_error": false}, "tokens": 693}

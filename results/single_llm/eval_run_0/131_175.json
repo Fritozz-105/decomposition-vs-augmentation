@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "131", "target_id": "175", "verdict": "MATCH", "confidence": 0.92, "reasoning": "Both names reference Panasonic network camera model BLC1A (or BL-C1A) with only minor formatting differences; the key model identifier matches, indicating they are the same product despite missing description and price for B.", "parse_error": false}, "tokens": 586}

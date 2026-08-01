@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "444", "target_id": "574", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (DSCW120 vs DSC-T300), different megapixel counts (7.2 MP vs 10.1 MP), and distinct feature sets, indicating they are different camera models.", "parse_error": false}, "tokens": 653}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "717", "target_id": "811", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The products have different brands (LG vs Maytag) and distinct model numbers, indicating they are separate microwave models despite both being over-the-range microwaves.", "parse_error": false}, "tokens": 561}

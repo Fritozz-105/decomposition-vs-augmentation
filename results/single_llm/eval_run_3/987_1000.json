@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "987", "target_id": "1000", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (SD880IS vs SD990IS), different key specs (10\u202fMP vs 14\u202fMP, 4\u00d7 vs 3.7\u00d7 zoom), and distinct product identifiers, indicating they are separate camera models.", "parse_error": false}, "tokens": 701}

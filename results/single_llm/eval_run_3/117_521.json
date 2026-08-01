@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "117", "target_id": "521", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (Q300 vs Q320) and distinct product names; the detailed description of the Q300 does not match the generic Q320 listing, indicating they are separate products.", "parse_error": false}, "tokens": 570}

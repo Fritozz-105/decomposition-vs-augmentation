@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "852", "target_id": "823", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings refer to different MacBook sizes (15\" vs 13\"), distinct model numbers (mb15purseev2 vs mb13-org-see-v2), and different colors (purple vs orange), indicating they are separate products.", "parse_error": false}, "tokens": 635}

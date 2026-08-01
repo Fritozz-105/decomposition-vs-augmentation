@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "400", "target_id": "335", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxtg8232b vs kx-tg6702b), distinct specifications (DECT 6.0 vs 5.8\u202fGHz, LCD screen vs not), and different pricing indicate they are separate products.", "parse_error": false}, "tokens": 713}

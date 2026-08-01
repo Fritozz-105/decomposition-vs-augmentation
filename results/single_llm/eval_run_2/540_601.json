@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "540", "target_id": "601", "verdict": "NO MATCH", "confidence": 0.92, "reasoning": "The two listings have different model numbers (22LV505 vs 22AV500U) and distinct feature sets; Product A includes a built-in DVD player while Product B does not mention this feature, indicating they are different products.", "parse_error": false}, "tokens": 716}

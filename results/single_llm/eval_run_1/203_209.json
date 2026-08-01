@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "203", "target_id": "209", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The two listings have different Garmin part numbers (010-10723-03 vs 010-10609-00), distinct model references, and a notable price gap, indicating they are separate suction mount products.", "parse_error": false}, "tokens": 645}

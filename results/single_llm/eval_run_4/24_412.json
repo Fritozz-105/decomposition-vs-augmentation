@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "24", "target_id": "412", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (pm1327bk vs sa750pu), distinct size ranges (13-27\" vs 32-50\"), and mount types (fixed wall mount vs articulating wall arm) indicate they are separate products.", "parse_error": false}, "tokens": 671}

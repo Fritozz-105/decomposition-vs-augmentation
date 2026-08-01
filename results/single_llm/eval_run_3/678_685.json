@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "678", "target_id": "685", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference the TomTom One 130 (130s) with the same model number (1EE005202) despite formatting differences; descriptions indicate the same GPS device with preloaded maps, suggesting they are the same product.", "parse_error": false}, "tokens": 738}

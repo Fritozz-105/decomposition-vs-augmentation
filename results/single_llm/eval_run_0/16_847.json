@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "16", "target_id": "847", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (tob165wh vs tob-155) indicating distinct products, despite similar naming and close price.", "parse_error": false}, "tokens": 620}

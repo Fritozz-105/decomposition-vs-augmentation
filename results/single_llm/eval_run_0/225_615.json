@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "225", "target_id": "615", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings reference different Sony model numbers (LCS-CSJ vs LCS-MX100) and distinct product types (camera soft case vs camcorder case). Descriptions and intended devices differ, indicating they are not the same product.", "parse_error": false}, "tokens": 630}

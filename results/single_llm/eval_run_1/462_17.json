@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "462", "target_id": "17", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers differ (WET54G vs WRE54G) indicating distinct products (bridge vs range extender), and descriptions and specifications are not identical.", "parse_error": false}, "tokens": 631}

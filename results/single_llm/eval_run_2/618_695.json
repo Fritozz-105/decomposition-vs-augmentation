@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "618", "target_id": "695", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (ln32a650 vs ln22a450), screen sizes (32\" vs 22\"), series (6 vs 4), resolution (1080p vs 720p) and other specs, indicating they are distinct products.", "parse_error": false}, "tokens": 724}

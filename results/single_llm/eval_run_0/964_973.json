@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "964", "target_id": "973", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (MP480 vs MP620) and distinct feature sets (wireless capability only mentioned for MP620). The names and specifications do not align, indicating they are separate products.", "parse_error": false}, "tokens": 610}

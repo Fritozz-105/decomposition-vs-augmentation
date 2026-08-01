@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "424", "target_id": "149", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and product types differ (gexp10hd vs gex-p920xm), and the descriptions reference different functionalities, indicating distinct products.", "parse_error": false}, "tokens": 643}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "710", "target_id": "744", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different screen sizes (50\" vs 67\"), different display technologies (plasma vs DLP), and distinct model numbers (PN50A650 vs HL-67A750), indicating they are different products.", "parse_error": false}, "tokens": 683}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "44", "target_id": "210", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SCDCE595 vs DVPCX995V), distinct product types (Super Audio CD player vs DVD player), and divergent specifications and price points indicate they are not the same product.", "parse_error": false}, "tokens": 604}

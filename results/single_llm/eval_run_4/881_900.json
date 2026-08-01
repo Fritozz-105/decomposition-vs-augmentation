@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "881", "target_id": "900", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The model numbers and series differ (XBR kdl52xbr6 vs W series kdl52w4100), indicating distinct product lines despite similar size and resolution.", "parse_error": false}, "tokens": 704}

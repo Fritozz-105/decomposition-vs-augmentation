@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "860", "target_id": "987", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different series (Z vs CS), distinct model numbers (VGN-Z550NB vs VGN-CS110E/R), different screen sizes (13.1\" vs 14.1\"), different CPUs, OS editions, and colors, indicating they are separate products.", "parse_error": false}, "tokens": 788}

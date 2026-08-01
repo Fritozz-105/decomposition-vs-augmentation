@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "803", "target_id": "695", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (ln19a650 vs ln22a450), different screen sizes (19\" vs 22\"), and different series indicate distinct products despite similar generic specs.", "parse_error": false}, "tokens": 712}

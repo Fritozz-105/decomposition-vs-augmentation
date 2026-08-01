@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1018", "target_id": "171", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (WGA600N vs WAP4400N), distinct product types (gaming adapter vs access point), and unrelated descriptions indicate they are not the same product.", "parse_error": false}, "tokens": 627}

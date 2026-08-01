@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "999", "target_id": "140", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (kxtg9391t vs kx-tg6700b), different frequency bands (1.9\u202fGHz vs 5.8\u202fGHz), distinct feature sets, and a sizable price gap indicate they are separate products.", "parse_error": false}, "tokens": 771}

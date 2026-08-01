@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "35", "target_id": "199", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the same model number kdcc669 and describe a Kenwood CD changer; despite minor naming differences and sparse description in B, the core product identifier matches.", "parse_error": false}, "tokens": 631}

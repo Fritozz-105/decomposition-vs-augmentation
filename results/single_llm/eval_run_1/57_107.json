@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "57", "target_id": "107", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (mx850 vs mx350), distinct feature sets (joystick, laser etched buttons vs generic universal remote), and a large price gap indicate they are separate products.", "parse_error": false}, "tokens": 634}

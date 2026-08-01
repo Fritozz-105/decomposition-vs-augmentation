@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1007", "target_id": "424", "verdict": "NO MATCH", "confidence": 0.6, "reasoning": "Product A is a specific LG model (DLE0442WH) with detailed specs, while Product B is a generic description lacking model number or details, making it unclear if they refer to the same item.", "parse_error": false}, "tokens": 684}

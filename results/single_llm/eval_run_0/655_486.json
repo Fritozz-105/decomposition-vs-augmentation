@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "655", "target_id": "486", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different capacities (500GB vs 1TB), distinct model numbers (301825U vs 301304U), and differing feature sets indicate they are separate products.", "parse_error": false}, "tokens": 711}

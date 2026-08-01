@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1050", "target_id": "329", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different capacities (4GB vs 2GB) and distinct model numbers (rpsdv04gu1k vs rp-sdv02gu1a) indicate they are separate products.", "parse_error": false}, "tokens": 654}

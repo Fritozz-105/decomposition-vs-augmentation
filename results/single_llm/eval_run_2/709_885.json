@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "709", "target_id": "885", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different screen sizes (32\" vs 37\"), distinct model numbers (KDL32M4000 vs KDL37XBR6), different series (M-series vs XBR), and differing specifications such as resolution indicate they are separate products.", "parse_error": false}, "tokens": 722}

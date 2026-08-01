@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "229", "target_id": "325", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (s-310 vs s-320) and different product codes (3870001 vs 3780001), indicating distinct grill models despite both being Weber Genesis series.", "parse_error": false}, "tokens": 622}

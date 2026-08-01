@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "109", "target_id": "255", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (CL51 vs BCI-6/4705A018), incompatible printer lists, distinct cartridge types and price points indicate they are separate products.", "parse_error": false}, "tokens": 656}

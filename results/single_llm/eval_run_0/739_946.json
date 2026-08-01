@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "739", "target_id": "946", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and part numbers differ (255w vs 755t, 0100071820 vs 010-00715-30) and the descriptions reference different features, indicating distinct Garmin navigation devices.", "parse_error": false}, "tokens": 669}

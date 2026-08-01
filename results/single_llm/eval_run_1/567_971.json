@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "567", "target_id": "971", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different screen sizes (52\" vs 55\"), different model numbers (LN52A550 vs LN55A950) and belong to different Samsung series (Series 5 vs Series 9), indicating distinct products.", "parse_error": false}, "tokens": 723}

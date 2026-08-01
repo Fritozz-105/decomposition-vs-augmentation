@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "203", "target_id": "275", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The two listings have different Garmin part numbers (010-10723-03 vs 010-10823-00), different prices, and only the first specifies compatible Nuvi models, indicating they are distinct mounts.", "parse_error": false}, "tokens": 642}

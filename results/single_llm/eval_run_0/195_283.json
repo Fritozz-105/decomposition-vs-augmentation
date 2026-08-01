@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "195", "target_id": "283", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings have the same core name (Bose SL2 Wireless Surround Link), identical price, and Product A's description matches the expected features of the SL2 wireless transmitter/receiver, indicating they refer to the same product.", "parse_error": false}, "tokens": 635}

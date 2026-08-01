@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "568", "target_id": "666", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings reference the same Samsung model number (ln40a650), identical 40\" size, 1080p LCD specs, contrast ratio, refresh rate, and response time, indicating they are the same product despite price listing differences.", "parse_error": false}, "tokens": 712}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "110", "target_id": "97", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "Product A is a CL-52 cyan cartridge for specific Pixma models, while Product B is a CLI-8PC cyan cartridge (part 0624B002) used in a different printer line; different model numbers and price gap indicate distinct products.", "parse_error": false}, "tokens": 825}

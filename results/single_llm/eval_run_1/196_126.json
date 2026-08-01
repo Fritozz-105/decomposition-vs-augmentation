@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "196", "target_id": "126", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (svmf120p vs svmf40p) and different pack sizes (120 sheets vs 40 sheets). The descriptions refer to distinct product lines, indicating they are not the same product.", "parse_error": false}, "tokens": 627}

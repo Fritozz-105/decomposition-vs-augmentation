@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "960", "target_id": "963", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference Canon CLI-221 black ink cartridge (cli221blk vs cli-221) and the part number 2946B001 matches; compatible printer models align, indicating the same product despite different description detail and price.", "parse_error": false}, "tokens": 661}

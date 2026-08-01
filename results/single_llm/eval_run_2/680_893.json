@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "680", "target_id": "893", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (32\" vs 52\"), different model numbers (KDL32L4000 vs KDL-52V4100) and belong to different series (L-series vs V-series), indicating distinct products.", "parse_error": false}, "tokens": 671}

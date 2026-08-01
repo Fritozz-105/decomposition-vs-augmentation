@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "9", "target_id": "57", "verdict": "NO MATCH", "confidence": 0.86, "reasoning": "Model numbers differ (kxtsc14w vs kx-tsc14b) and descriptions indicate different colors and feature sets, suggesting distinct SKUs rather than the same product.", "parse_error": false}, "tokens": 758}

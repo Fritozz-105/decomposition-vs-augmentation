@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "749", "target_id": "299", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The model numbers differ (kxtg9332s vs kx-tg1032s) and the feature sets and descriptions are not identical, indicating distinct products.", "parse_error": false}, "tokens": 671}

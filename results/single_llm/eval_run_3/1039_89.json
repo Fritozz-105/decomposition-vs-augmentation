@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1039", "target_id": "89", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different model numbers (CL211 vs PGI-5BK), one is a color cartridge and the other is a black pigment cartridge, and they are compatible with different printer families, indicating distinct products.", "parse_error": false}, "tokens": 590}

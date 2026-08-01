@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "439", "target_id": "578", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (HDRSR10 vs DCR-SR85), storage capacity and feature sets are not the same, and descriptions only overlap on generic LCD size, indicating distinct camcorder models.", "parse_error": false}, "tokens": 709}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "416", "target_id": "169", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers and distinct adapter types (AC wall adapter with international plugs vs car cigarette lighter adapter) indicate they are separate products.", "parse_error": false}, "tokens": 587}

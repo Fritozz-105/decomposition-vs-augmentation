@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "526", "target_id": "468", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same model number SRH1000 from Polk Audio Sirius, and the names contain the same key terms despite ordering differences, indicating they describe the same home tuner.", "parse_error": false}, "tokens": 589}

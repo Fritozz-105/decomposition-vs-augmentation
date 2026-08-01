@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "329", "target_id": "883", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers differ (kxtsc14b vs kxth1212b) indicating distinct products despite similar brand and price range.", "parse_error": false}, "tokens": 621}

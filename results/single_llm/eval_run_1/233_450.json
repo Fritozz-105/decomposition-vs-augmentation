@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "233", "target_id": "450", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings differ in capacity (2GB vs 8GB), form factor (micro SD vs CompactFlash), and model numbers, indicating distinct products.", "parse_error": false}, "tokens": 599}

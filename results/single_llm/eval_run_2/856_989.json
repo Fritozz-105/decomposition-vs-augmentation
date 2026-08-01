@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "856", "target_id": "989", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (TXSR806B vs TXSR706B) and the product names and feature sets (THX Ultra 2 Plus vs THX Select 2FM) are distinct, indicating they are separate receiver models.", "parse_error": false}, "tokens": 712}

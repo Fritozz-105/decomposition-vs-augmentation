@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "678", "target_id": "685", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference a TomTom One 130/130s model with a very similar part number (1EE005202 vs 1EE0.052.02) and mention preloaded maps; the wording differences (car vs portable) are minor and likely just descriptive variations.", "parse_error": false}, "tokens": 751}

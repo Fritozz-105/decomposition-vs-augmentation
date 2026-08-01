@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "24", "target_id": "411", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (pm1327bk vs sa745pu), different mount types (fixed support tray vs articulating arm), and non-overlapping TV size ranges (13-27\" vs 32-45\").", "parse_error": false}, "tokens": 677}

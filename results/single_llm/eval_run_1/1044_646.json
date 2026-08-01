@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1044", "target_id": "646", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (ln46a850 vs ln46a650) indicating different Samsung TV series, despite similar size and specs; thus they are not the same product.", "parse_error": false}, "tokens": 713}

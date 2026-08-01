@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "589", "target_id": "229", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings use the same Belkin model number f8n044, differing only in color suffix (green vs orange), indicating they are color variants of the same product.", "parse_error": false}, "tokens": 702}

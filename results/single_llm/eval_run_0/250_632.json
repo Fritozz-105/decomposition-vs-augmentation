@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "250", "target_id": "632", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (TG6702B vs TG9361B), specifications and price points are substantially different, indicating distinct products.", "parse_error": false}, "tokens": 669}

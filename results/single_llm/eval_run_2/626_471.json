@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "626", "target_id": "471", "verdict": "NO MATCH", "confidence": 0.7, "reasoning": "Both listings mention a black Polk Audio CSI A4 center channel, but they use different model numbers (csia4bk vs am4415-a) and the prices differ by over 30%, suggesting they are distinct SKUs rather than the same exact product.", "parse_error": false}, "tokens": 858}

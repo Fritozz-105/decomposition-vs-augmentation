@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "522", "target_id": "535", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (S210 vs S550), different megapixel counts (8.1 MP vs 10 MP) and different zoom specifications, indicating distinct camera models.", "parse_error": false}, "tokens": 646}

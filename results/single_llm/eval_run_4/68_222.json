@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "68", "target_id": "222", "verdict": "MATCH", "confidence": 0.86, "reasoning": "Both listings reference the same Danby portable dishwasher model (ddw1805 series) with white finish; the slight difference in the suffix (wh vs w) is a minor naming variation, and other attributes match.", "parse_error": false}, "tokens": 665}

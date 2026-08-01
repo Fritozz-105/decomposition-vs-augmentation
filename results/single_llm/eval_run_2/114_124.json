@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "114", "target_id": "124", "verdict": "MATCH", "confidence": 0.75, "reasoning": "Both listings share the identical model number (vmcc1b) and product type; the only difference is the finish (black vs steel), suggesting they are variants of the same mount.", "parse_error": false}, "tokens": 660}

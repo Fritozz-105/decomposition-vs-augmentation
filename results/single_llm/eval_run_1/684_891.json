@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "684", "target_id": "891", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL52W4100 vs KDL-32M4000), screen sizes (52\" vs 32\"), resolutions (1080p vs 720p), and belong to different Bravia series (W-series vs M-series), indicating distinct products.", "parse_error": false}, "tokens": 683}

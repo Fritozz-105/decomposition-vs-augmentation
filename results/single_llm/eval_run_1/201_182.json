@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "201", "target_id": "182", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different series names (Avalon vs Veneto), different model numbers and sizes (abs48 48\" vs abs32 32\"), distinct descriptions and price points, indicating separate products.", "parse_error": false}, "tokens": 608}

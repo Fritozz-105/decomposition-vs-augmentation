@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "960", "target_id": "101", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Product A is a black ink cartridge (CLI221BLK) for older Pixma models, while Product B is a color photo cartridge (CL-52) for different Pixma models; model numbers, colors, and compatible printers differ.", "parse_error": false}, "tokens": 658}

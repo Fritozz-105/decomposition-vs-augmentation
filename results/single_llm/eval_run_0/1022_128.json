@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1022", "target_id": "128", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different brands (Linksys vs TiVo), different model numbers (WUSB600N vs AG0100), and distinct specifications (dual-band 802.11n vs wireless\u2011g only) indicate they are not the same product.", "parse_error": false}, "tokens": 601}

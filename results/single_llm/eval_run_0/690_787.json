@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "690", "target_id": "787", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is an electric range (model LRE30757SS) with 5.6 cu ft capacity, while Product B is described as a gas range with 5.0 cu ft capacity; the fuel type and capacity differ, indicating distinct products.", "parse_error": false}, "tokens": 606}

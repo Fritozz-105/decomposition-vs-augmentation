@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "684", "target_id": "1021", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (52\" vs 42\"), different series (W-series vs V-series) and distinct model numbers (KDL52W4100 vs KDL42V4100) indicate they are separate products.", "parse_error": false}, "tokens": 654}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "588", "target_id": "230", "verdict": "NO MATCH", "confidence": 0.75, "reasoning": "Both listings share the same base model number (f8n044) but specify different colors (silver vs green), indicating they are variants of the same product line rather than the identical product.", "parse_error": false}, "tokens": 790}

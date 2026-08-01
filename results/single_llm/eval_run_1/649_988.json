@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "649", "target_id": "988", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Model numbers differ (LN46A750 vs LN46A950) and belong to different series (Series 7 vs Series 9); specifications and features are not identical, indicating distinct products.", "parse_error": false}, "tokens": 750}

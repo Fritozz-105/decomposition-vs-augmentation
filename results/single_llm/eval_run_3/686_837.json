@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "686", "target_id": "837", "verdict": "MATCH", "confidence": 0.86, "reasoning": "Both listings reference the Onkyo TXSR606 series; A specifies TXSR606B while B uses TXSR606, and both describe the same Dolby/DTS/TrueHD capabilities, indicating they are the same receiver model despite minor naming variation.", "parse_error": false}, "tokens": 719}

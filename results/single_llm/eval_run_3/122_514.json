@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "122", "target_id": "514", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (tcx905 vs dcx300), different frequency specifications (5.8\u202fGHz vs DECT\u202f6.0), and describe different accessories (charger vs cradle), indicating they are distinct products.", "parse_error": false}, "tokens": 638}

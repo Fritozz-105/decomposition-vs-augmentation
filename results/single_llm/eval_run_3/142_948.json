@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "142", "target_id": "948", "verdict": "NO MATCH", "confidence": 0.9, "reasoning": "The model numbers differ (cgas007a1b vs cgr-s006a/1b) and descriptions do not reference the same cameras; price information is only provided for B, indicating distinct listings.", "parse_error": false}, "tokens": 679}

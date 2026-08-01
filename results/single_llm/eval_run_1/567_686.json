@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "567", "target_id": "686", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 22\"), distinct model numbers (LN52A550 vs LN22A451), and belong to different Samsung series, indicating they are separate products.", "parse_error": false}, "tokens": 685}

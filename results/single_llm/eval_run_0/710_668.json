@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "710", "target_id": "668", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (pn50a650 vs pn50a550) indicating distinct product versions, and the descriptions list different feature sets despite similar size and contrast ratio.", "parse_error": false}, "tokens": 748}

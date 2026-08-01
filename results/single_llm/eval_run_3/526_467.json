@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "526", "target_id": "467", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The product names and model numbers differ (SRH1000 vs SLH2), indicating distinct devices (home tuner vs portable radio kit). No overlapping specifications suggest they are the same item.", "parse_error": false}, "tokens": 628}

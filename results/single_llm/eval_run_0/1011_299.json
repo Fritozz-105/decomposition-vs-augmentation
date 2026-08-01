@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1011", "target_id": "299", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxtg6313s vs kx-tg1032s), distinct handset counts and feature sets, and descriptions do not overlap, indicating separate products despite similar brand and price range.", "parse_error": false}, "tokens": 687}

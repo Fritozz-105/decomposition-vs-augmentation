@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "991", "target_id": "600", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different screen sizes (22\" vs 19\") and distinct model numbers (22AV500U vs 19AV500U), indicating they are separate products despite sharing the same series and similar features.", "parse_error": false}, "tokens": 640}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "90", "target_id": "939", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CL41CL vs CL-211), are compatible with different printer models, and describe different cartridge types, indicating they are distinct products despite similar brand and price range.", "parse_error": false}, "tokens": 595}

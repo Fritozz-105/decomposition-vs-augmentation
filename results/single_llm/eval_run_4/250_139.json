@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "250", "target_id": "139", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (TG6702B vs TG4500B), distinct feature sets (expandable 8-handset system vs single corded/cordless phone), and unrelated descriptions indicate they are not the same product.", "parse_error": false}, "tokens": 706}

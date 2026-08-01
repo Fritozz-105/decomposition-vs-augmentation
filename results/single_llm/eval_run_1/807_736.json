@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "807", "target_id": "736", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a camera case (model 2595B002) while Product B is a DSLR camera (model 2757B001); different product types, model numbers, and descriptions.", "parse_error": false}, "tokens": 582}

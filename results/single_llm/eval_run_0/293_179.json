@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "293", "target_id": "179", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxts600w vs kx-tsc14w), different line capacities (3-line vs 2-line) and distinct feature sets indicate they are separate products.", "parse_error": false}, "tokens": 626}

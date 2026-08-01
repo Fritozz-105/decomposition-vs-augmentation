@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "44", "target_id": "195", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (SCDCE595 vs CDP-CE375), distinct feature sets (Super Audio CD playback vs standard CD player/changer), and different price points, indicating they are separate products.", "parse_error": false}, "tokens": 602}

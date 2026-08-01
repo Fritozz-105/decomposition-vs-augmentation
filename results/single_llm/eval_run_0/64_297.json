@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "64", "target_id": "297", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different product types (wall mount vs ceiling mount), distinct model numbers (VM400S vs SC1A-B1), and different size specifications, indicating they are not the same product.", "parse_error": false}, "tokens": 580}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "200", "target_id": "294", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a camera backpack, while Product B is a camera battery; names, descriptions, and prices differ significantly, indicating different products.", "parse_error": false}, "tokens": 586}

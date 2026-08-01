@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "445", "target_id": "415", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a Sony pink Cyber-shot camera (model DSCW120P) while Product B is a leather camera case (model LCS-TWA/B); they are different items (camera vs accessory) with distinct names, descriptions, and prices.", "parse_error": false}, "tokens": 605}

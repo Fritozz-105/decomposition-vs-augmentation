@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "267", "target_id": "340", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (NN-SN667B vs NN-SD377S), different capacities (1.2 cu ft vs 0.8 cu ft) and different wattages (1300W vs 800W), indicating they are distinct microwave models.", "parse_error": false}, "tokens": 675}

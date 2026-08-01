@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "653", "target_id": "901", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (wd65736 vs wd-65835) and the series names (736 vs Diamond) indicate distinct product lines, despite both being 65\" Mitsubishi DLP projection TVs.", "parse_error": false}, "tokens": 708}

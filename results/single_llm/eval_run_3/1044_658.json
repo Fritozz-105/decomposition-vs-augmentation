@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1044", "target_id": "658", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Model numbers differ (ln46a850 vs ln46a550) and key specs such as dynamic contrast ratio and response time are different, indicating distinct TV models despite similar size and brand.", "parse_error": false}, "tokens": 673}

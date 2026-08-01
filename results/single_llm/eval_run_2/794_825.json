@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "794", "target_id": "825", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings differ in target device size (13\" vs 15\"), color (clear vs green), and model numbers (mb13clrseev2 vs mb15-grn-see-v2), indicating distinct products.", "parse_error": false}, "tokens": 622}

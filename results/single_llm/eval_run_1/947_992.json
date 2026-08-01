@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "947", "target_id": "992", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different model numbers (G10 vs SD880 IS), different megapixel counts, zoom, and color; specifications and features do not align, indicating distinct products.", "parse_error": false}, "tokens": 664}

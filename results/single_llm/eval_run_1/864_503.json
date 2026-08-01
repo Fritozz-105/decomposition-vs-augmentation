@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "864", "target_id": "503", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different storage capacities (250GB vs 320GB) and distinct model numbers (301278 vs 301829), indicating they are separate product variants.", "parse_error": false}, "tokens": 667}

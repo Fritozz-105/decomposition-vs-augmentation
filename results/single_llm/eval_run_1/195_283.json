@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "195", "target_id": "283", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Names are essentially identical aside from extra words in A; price is exactly the same; description of A matches what the Bose SL2 Wireless Surround Link is, so B likely refers to the same product.", "parse_error": false}, "tokens": 637}

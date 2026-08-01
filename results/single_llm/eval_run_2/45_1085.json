@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "45", "target_id": "1085", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (du1100ss vs du1100xtps) indicating distinct SKUs, despite both being 24\" Whirlpool dishwashers; the lack of matching specifications suggests they are not the same product.", "parse_error": false}, "tokens": 712}

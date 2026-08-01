@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "514", "target_id": "546", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (DVR610 vs D-R410) and product types (recorder/VCR combo vs DVD recorder only) indicate distinct products despite similar upconversion feature.", "parse_error": false}, "tokens": 660}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "875", "target_id": "1061", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same model number TXNR906B, include identical THX Ultra2 certification and audio format specs, and the product names differ only in wording. Price difference is not contradictory as A has no price.", "parse_error": false}, "tokens": 731}

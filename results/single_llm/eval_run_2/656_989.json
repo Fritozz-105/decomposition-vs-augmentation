@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "656", "target_id": "989", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CS325 vs TX-SR706), distinct feature sets (CD receiver vs full A/V receiver with Dolby/DTS support), and unrelated price information, indicating they are separate products.", "parse_error": false}, "tokens": 644}

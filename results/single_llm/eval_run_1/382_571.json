@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "382", "target_id": "571", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference the Denon S32 networked stereo; the model identifier matches and product type is the same. Price difference is within typical retail variance, suggesting the same product listed at different price points.", "parse_error": false}, "tokens": 715}

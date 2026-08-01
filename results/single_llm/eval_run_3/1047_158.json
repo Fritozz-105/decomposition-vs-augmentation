@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1047", "target_id": "158", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SC1A vs MF110-B1), mounting types (ceiling vs wall), and load capacities; descriptions and specifications do not align, indicating distinct products.", "parse_error": false}, "tokens": 685}

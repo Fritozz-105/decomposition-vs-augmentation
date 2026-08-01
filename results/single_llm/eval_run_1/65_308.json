@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "65", "target_id": "308", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (VM400B vs MF209-B1), different size ranges and feature descriptions, indicating they are distinct Sanus wall mounts.", "parse_error": false}, "tokens": 636}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "677", "target_id": "891", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (46\" vs 32\"), distinct series and model numbers (S-series KDL46S4100 vs M-series KDL-32M4000), and differing resolutions (1920x1080 vs 1366x768) indicate they are separate products.", "parse_error": false}, "tokens": 678}

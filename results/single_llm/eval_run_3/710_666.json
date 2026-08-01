@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "710", "target_id": "666", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different screen sizes (50\" vs 40\"), different display technologies (plasma vs LCD), and distinct model numbers (pn50a650 vs ln40a650), indicating they are separate products.", "parse_error": false}, "tokens": 662}

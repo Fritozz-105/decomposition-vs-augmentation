@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "654", "target_id": "612", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The products have different screen sizes (50\" vs 37\"), different display technologies (plasma vs LCD), and distinct model numbers (TH50PZ800U vs TC-37LZ85), indicating they are separate items.", "parse_error": false}, "tokens": 664}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "421", "target_id": "209", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Different model numbers (0101097900 vs 010-10609-00) and Product A includes a 12\u2011volt adapter while Product B appears to be only a suction mount, indicating distinct items.", "parse_error": false}, "tokens": 709}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "252", "target_id": "313", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SLV-D380P vs DVP-NS57P), one is a DVD/VHS combo and the other is a DVD-only player, descriptions and colors differ, indicating distinct products.", "parse_error": false}, "tokens": 676}

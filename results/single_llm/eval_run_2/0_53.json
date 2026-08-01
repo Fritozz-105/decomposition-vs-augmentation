@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "0", "target_id": "53", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the Sony turntable model PS-LX350H (one with a hyphen), and the descriptions align on belt-drive and model number, indicating they are the same product despite missing description for B.", "parse_error": false}, "tokens": 599}

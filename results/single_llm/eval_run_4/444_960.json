@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "444", "target_id": "960", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different brands (Sony vs Canon), distinct model numbers (DSCW120 vs SX110 IS), and key specs such as megapixels, optical zoom, and LCD size differ, indicating they are separate products.", "parse_error": false}, "tokens": 658}

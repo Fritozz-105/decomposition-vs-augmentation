@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "439", "target_id": "581", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (HDR-SR10 vs HDR-HC9), distinct storage types (40GB HDD vs unspecified), and different feature sets, indicating they are separate camcorder models.", "parse_error": false}, "tokens": 704}

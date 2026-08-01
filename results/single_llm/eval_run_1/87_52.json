@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "87", "target_id": "52", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (VMPL3B vs VMPL50-B) and different weight capacities (280\u202flb vs 130\u202flb), indicating distinct products despite both being Sanus flat\u2011panel TV mounts.", "parse_error": false}, "tokens": 626}

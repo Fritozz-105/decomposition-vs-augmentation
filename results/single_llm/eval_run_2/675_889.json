@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "675", "target_id": "889", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL26M4000 vs KDL-40Z4100), screen sizes (26\" vs 40\"), resolutions and series (M-series vs Z-series), indicating they are distinct products.", "parse_error": false}, "tokens": 686}

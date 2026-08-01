@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "582", "target_id": "660", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (pn50a550 vs pn58a550) and different screen sizes (50\" vs 58\"), indicating distinct products despite similar branding and specs.", "parse_error": false}, "tokens": 683}

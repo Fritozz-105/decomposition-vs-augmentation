@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "741", "target_id": "834", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL42V4100 vs KDL26M4000), screen sizes (42\" vs 26\"), series (V vs M), and resolutions (Full HD 1920x1080 vs 1366x768), indicating distinct products.", "parse_error": false}, "tokens": 684}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "176", "target_id": "307", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (MF110B vs LRF118-B1), different weight capacities and mount types (VisionMount tilt vs full motion), indicating distinct products.", "parse_error": false}, "tokens": 634}

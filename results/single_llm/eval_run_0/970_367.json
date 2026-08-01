@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "970", "target_id": "367", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (v470 vs v220) and different product codes (910000692 vs 910-000153), as well as differing technology descriptions (laser vs optical), indicating they are distinct products.", "parse_error": false}, "tokens": 608}

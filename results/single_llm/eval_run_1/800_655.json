@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "800", "target_id": "655", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different focal length ranges (17-85mm vs 55-250mm), distinct model numbers (9517A002 vs 2044B002), and different lens types, indicating they are separate products.", "parse_error": false}, "tokens": 715}

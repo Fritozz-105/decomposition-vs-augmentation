@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "986", "target_id": "719", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 32\"), different series numbers (8 vs 6) and distinct model numbers (LN52A850 vs LN32A650), indicating they are different products.", "parse_error": false}, "tokens": 669}

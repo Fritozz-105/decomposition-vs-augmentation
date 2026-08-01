@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "599", "target_id": "545", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings describe a Belkin neoprene sleeve for MacBook Air in black; Product A provides the specific model number (f8n065blk) which matches the generic description of Product B, indicating they refer to the same item.", "parse_error": false}, "tokens": 590}

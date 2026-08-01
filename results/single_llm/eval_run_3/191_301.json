@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "191", "target_id": "301", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (kx-tga450b vs kx-tg1034s), different wireless technologies (5.8\u202fGHz vs DECT\u202f6.0), and distinct feature sets, indicating they are separate products.", "parse_error": false}, "tokens": 721}

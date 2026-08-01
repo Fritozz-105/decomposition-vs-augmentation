@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "964", "target_id": "968", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (MP480 vs IP4600) and distinct product types (all-in-one vs printer-only), indicating they are different products.", "parse_error": false}, "tokens": 588}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "852", "target_id": "823", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings differ in target device size (15\" vs 13\"), model numbers (mb15purseev2 vs mb13-org-see-v2), and color (purple vs orange), indicating distinct products despite both being Speck seethru cases.", "parse_error": false}, "tokens": 640}

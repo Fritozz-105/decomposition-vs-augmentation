@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "109", "target_id": "87", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CL51 vs CLI-8Y/0623B002), different cartridge capacities, and a large price discrepancy, indicating they are distinct products.", "parse_error": false}, "tokens": 602}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "985", "target_id": "607", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the Panasonic Lumix DMC-FS3S silver compact camera with a 33mm lens, 3x optical zoom and similar specs; the model number (FS3S) matches despite minor naming variations and a slight MP rounding.", "parse_error": false}, "tokens": 795}

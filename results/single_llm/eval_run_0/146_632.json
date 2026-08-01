@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "146", "target_id": "632", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (kxtg6700b vs kx-tg9361b), different line capacities (2\u2011line vs 1\u2011line) and distinct feature sets, indicating they are separate products.", "parse_error": false}, "tokens": 724}

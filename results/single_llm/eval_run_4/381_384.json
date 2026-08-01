@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "381", "target_id": "384", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The product names and model numbers differ (stiletto 2 kit vs SCC1 tuner), descriptions do not overlap, and the prices are notably different, indicating distinct products.", "parse_error": false}, "tokens": 584}

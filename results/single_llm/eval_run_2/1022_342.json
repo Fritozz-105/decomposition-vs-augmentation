@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1022", "target_id": "342", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different manufacturers (Linksys vs D-Link) and distinct model numbers (WUSB600N vs DWA-130) indicate they are separate products despite both being USB wireless N adapters.", "parse_error": false}, "tokens": 578}

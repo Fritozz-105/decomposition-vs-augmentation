@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "424", "target_id": "149", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and product types differ (gexp10hd HD radio tuner vs gex-p920xm XM satellite tuner), and the descriptions reference different compatible headunits, indicating distinct products.", "parse_error": false}, "tokens": 651}

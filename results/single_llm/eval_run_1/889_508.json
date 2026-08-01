@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "889", "target_id": "508", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (HG20 vs HF10), distinct storage types (built\u2011in 60\u202fGB HDD vs no HDD), and different feature sets, indicating they are separate camcorder models.", "parse_error": false}, "tokens": 707}

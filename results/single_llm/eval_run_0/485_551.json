@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "485", "target_id": "551", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings use the same model name 'Canon Pixma MX850' and describe a multifunction (print/scan/copy/fax) printer; the slight variation in suffixes (mx850c vs 2436b002) are likely SKU differences, not different products.", "parse_error": false}, "tokens": 646}

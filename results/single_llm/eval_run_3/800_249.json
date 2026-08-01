@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "800", "target_id": "249", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "The two listings have different focal length ranges (17-85mm vs 75-300mm), different model numbers (9517A002 vs 6473A003), and distinct lens types (EF-S vs EF). These differences indicate they are separate products.", "parse_error": false}, "tokens": 714}

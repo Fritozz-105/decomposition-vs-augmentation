@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "727", "target_id": "659", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings use the same brand (Omnimount), model (Stellar G303), color (dark/black), and have nearly identical prices; the detailed description of A matches the implied product type of B.", "parse_error": false}, "tokens": 617}

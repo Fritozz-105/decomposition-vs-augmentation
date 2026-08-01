@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "890", "target_id": "551", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (iP2600 vs MX850) and distinct product types\u2014A is a dedicated photo printer, B is an all\u2011in\u2011one multifunction device\u2014indicating they are not the same product.", "parse_error": false}, "tokens": 639}

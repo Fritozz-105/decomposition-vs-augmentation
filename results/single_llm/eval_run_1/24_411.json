@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "24", "target_id": "411", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (pm1327bk vs sa745pu), distinct product types (fixed wall mount vs articulating arm), and non-overlapping TV size ranges indicate they are separate products.", "parse_error": false}, "tokens": 667}

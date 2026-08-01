@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "670", "target_id": "815", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Although both are Speck Seethru clear cases, Product A is for a MacBook Air (model mbaclrsee) while Product B is for a 15\" MacBook Pro (model mb15-clr-see-v2). Different device models indicate distinct products.", "parse_error": false}, "tokens": 656}

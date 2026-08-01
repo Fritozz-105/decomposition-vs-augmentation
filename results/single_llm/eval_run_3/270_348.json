@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "270", "target_id": "348", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (nnsd667ss vs nnsn667b) and the colors are stainless steel vs black, indicating distinct product variants despite similar size and power.", "parse_error": false}, "tokens": 775}

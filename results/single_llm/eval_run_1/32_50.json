@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "32", "target_id": "50", "verdict": "MATCH", "confidence": 0.94, "reasoning": "Both listings reference the same Panasonic model number (kxts3282b / kx-ts3282b) and mention a corded phone with two lines and black color, indicating they are the same product despite the shorter description in B.", "parse_error": false}, "tokens": 635}

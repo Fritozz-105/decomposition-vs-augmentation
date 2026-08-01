@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "683", "target_id": "834", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 26\"), different series (V-series vs M-series), distinct model numbers (KDL52V4100 vs KDL-26M4000), and different resolutions, indicating they are separate products.", "parse_error": false}, "tokens": 685}

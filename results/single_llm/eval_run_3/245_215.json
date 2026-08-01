@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "245", "target_id": "215", "verdict": "NO MATCH", "confidence": 0.65, "reasoning": "Product A includes a specific model number (WM3431W/WM3431WH) and detailed specs, while Product B only gives a generic description without a model number or specifications, making it impossible to confirm they are the same item.", "parse_error": false}, "tokens": 768}

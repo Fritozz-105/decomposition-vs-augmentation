@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "0", "target_id": "53", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the Sony turntable model PSLX350H (or PS-LX350H) with identical naming and the description of A matches the expected features of that model; the slight hyphen difference is a minor variation.", "parse_error": false}, "tokens": 590}

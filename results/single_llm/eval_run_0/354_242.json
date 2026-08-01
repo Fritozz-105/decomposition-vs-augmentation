@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "354", "target_id": "242", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The product names contain different model numbers (SCH1 vs SUPH1) and descriptions differ in detail, indicating distinct items despite similar price and general category.", "parse_error": false}, "tokens": 622}

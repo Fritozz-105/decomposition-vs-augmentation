@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "215", "target_id": "374", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (KCA-IP200 vs KCAIP300V), distinct product types (cable vs video adapter), and differing specifications indicate they are not the same item.", "parse_error": false}, "tokens": 648}

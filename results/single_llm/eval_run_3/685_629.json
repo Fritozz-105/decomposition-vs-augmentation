@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "685", "target_id": "629", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (DSCH50B vs DSC-H10/DSCH10), different megapixel counts (9 MP vs 8.1 MP) and distinct feature sets, indicating they are separate camera models.", "parse_error": false}, "tokens": 696}

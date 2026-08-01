@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "685", "target_id": "926", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (DSCH50B vs DSCW170), different megapixel counts (9 MP vs 10.1 MP), distinct features and colors, indicating they are separate camera models.", "parse_error": false}, "tokens": 684}

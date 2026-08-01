@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "767", "target_id": "999", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The products differ in screen size (72\" vs 46\"), display technology (DLP vs LCD), and model numbers (HL72A650 vs LN46A860), indicating they are distinct items.", "parse_error": false}, "tokens": 695}

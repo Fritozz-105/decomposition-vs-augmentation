@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "481", "target_id": "574", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (DSCW150N vs DSC-T300), distinct specifications (8.1\u202fMP vs 10.1\u202fMP, 5x optical zoom vs 2x digital zoom), and different colors, indicating they are separate camera models.", "parse_error": false}, "tokens": 705}

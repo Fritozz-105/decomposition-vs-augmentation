@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "591", "target_id": "694", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (56\" vs 19\"), different model numbers (hl56a650 vs ln19a650), and different display technologies (DLP vs LCD), indicating they are distinct products.", "parse_error": false}, "tokens": 677}

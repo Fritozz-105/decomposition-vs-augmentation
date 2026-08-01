@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "666", "target_id": "731", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the same Samsung model number LN52A750, same screen size, resolution, contrast ratio and 120Hz refresh; minor spec wording differences (4ms vs 6ms) are likely typographical. Prices are not contradictory.", "parse_error": false}, "tokens": 694}

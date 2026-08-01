@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1038", "target_id": "863", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and product names differ (bdvis1000 vs dav-hdx576wf), descriptions list different components and features, and the price gap is large, indicating distinct products.", "parse_error": false}, "tokens": 740}

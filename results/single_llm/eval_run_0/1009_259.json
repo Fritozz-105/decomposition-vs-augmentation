@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1009", "target_id": "259", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a battery pack (bp-808) with model 2740b002, while Product B is a battery charger (cb-2lx) with model 1133b001; they serve different functions and have distinct model numbers.", "parse_error": false}, "tokens": 571}

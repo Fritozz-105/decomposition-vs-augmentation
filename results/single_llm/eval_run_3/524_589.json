@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "524", "target_id": "589", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (lc37d44u vs lc-37d64u) and key specs such as resolution (1366x768 vs 1920x1080) are not the same, indicating distinct products despite both being 37\" Sharp Aquos LCD TVs.", "parse_error": false}, "tokens": 731}

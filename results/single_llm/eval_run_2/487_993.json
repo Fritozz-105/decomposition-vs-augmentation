@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "487", "target_id": "993", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (sd1100isb vs sd990), different megapixel counts (8 MP vs 14 MP), different optical zoom levels, and different colors, indicating they are distinct camera models.", "parse_error": false}, "tokens": 710}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "501", "target_id": "556", "verdict": "NO MATCH", "confidence": 0.93, "reasoning": "Model numbers differ (th50pz80u vs th-50px80u) and key specs conflict: A lists 1080p 1920x1080 resolution while B lists 1366x768, indicating different TV models.", "parse_error": false}, "tokens": 755}

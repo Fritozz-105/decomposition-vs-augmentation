@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "986", "target_id": "680", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 26\"), different series and model numbers (LN52A850 vs LN26A450), and distinct specifications (1080p vs 720p). These differences indicate they are separate products.", "parse_error": false}, "tokens": 708}

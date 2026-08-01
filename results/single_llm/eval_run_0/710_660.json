@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "710", "target_id": "660", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (pn50a650 vs pn58a550) and different screen sizes (50\" vs 58\"), indicating distinct products despite both being Samsung plasma TVs.", "parse_error": false}, "tokens": 656}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "221", "target_id": "424", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Product A specifies a gas dryer with model DLG0452W/WH, while Product B is described only as an electric dryer with no model number, indicating different power types and likely different models.", "parse_error": false}, "tokens": 616}

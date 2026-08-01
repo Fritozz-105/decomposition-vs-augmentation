@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "737", "target_id": "834", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL40Z4100B vs KDL-26M4000), screen sizes (40\" vs 26\"), and resolutions (Full HD 1920x1080 vs 1366x768), indicating they are distinct products.", "parse_error": false}, "tokens": 674}

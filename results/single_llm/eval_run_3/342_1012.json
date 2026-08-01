@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "342", "target_id": "1012", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different brands (Canon vs Panasonic), distinct model numbers (EOS 40D vs DMC-FZ28), and product types (DSLR body only vs compact camera with built-in lens) indicate they are not the same product.", "parse_error": false}, "tokens": 640}

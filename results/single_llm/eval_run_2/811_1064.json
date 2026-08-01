@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "811", "target_id": "1064", "verdict": "NO MATCH", "confidence": 0.92, "reasoning": "The products have different model numbers (AVR-1709 vs DHT-589BA), different channel configurations (7\u2011channel vs 5.1), and distinct feature sets, indicating they are separate items despite similar pricing.", "parse_error": false}, "tokens": 684}

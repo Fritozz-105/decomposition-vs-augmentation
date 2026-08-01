@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "789", "target_id": "1075", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (KXTGA630S vs KX-TG9391T), distinct product types (single cordless handset vs two-line corded/cordless combo), and price disparity indicate they are not the same product.", "parse_error": false}, "tokens": 680}

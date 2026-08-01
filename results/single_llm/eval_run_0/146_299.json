@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "146", "target_id": "299", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (KXTG6700B vs KX-TG1032S), distinct feature sets (answering system with 2 lines and up to 8 handsets vs dual handset phone), and different pricing indicate they are separate products.", "parse_error": false}, "tokens": 735}

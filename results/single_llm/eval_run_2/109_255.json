@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "109", "target_id": "255", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (CL51 vs BCI-6/4705A018), different cartridge types (high\u2011capacity color-only vs a 6\u2011color set including black), and distinct compatible printer lists; price also differs significantly.", "parse_error": false}, "tokens": 706}

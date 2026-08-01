@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "130", "target_id": "203", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings share the same model identifier (rf20), include 'mastercontrol' and 'universal learning remote' in the name, and describe similar universal remote features; price difference is irrelevant as B lacks a price.", "parse_error": false}, "tokens": 715}

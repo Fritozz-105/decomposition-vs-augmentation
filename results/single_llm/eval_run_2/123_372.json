@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "123", "target_id": "372", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings refer to the Plantronics Voyager 510 Bluetooth headset; Product A provides additional details (silver finish, model 496915) but the core product name and model are identical, indicating they are the same product.", "parse_error": false}, "tokens": 594}

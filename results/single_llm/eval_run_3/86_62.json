@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "86", "target_id": "62", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different model numbers, capacities (400-disc vs 10-disc), and distinct product names; their descriptions do not overlap, indicating they are different products.", "parse_error": false}, "tokens": 601}

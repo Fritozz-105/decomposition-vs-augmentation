@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "834", "target_id": "171", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The model numbers differ (WRVS4400N vs WAP4400N) and the product types are distinct\u2014one is a security router, the other an access point with PoE\u2014indicating they are separate products.", "parse_error": false}, "tokens": 644}

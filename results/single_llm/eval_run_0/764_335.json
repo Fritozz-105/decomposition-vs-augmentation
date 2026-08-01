@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "764", "target_id": "335", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (kxtg9348t vs kx-tg6702b), distinct frequency specifications (1.9\u202fGHz vs 5.8\u202fGHz) and differing feature sets indicate they are separate products.", "parse_error": false}, "tokens": 711}

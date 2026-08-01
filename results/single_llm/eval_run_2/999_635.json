@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "999", "target_id": "635", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (KXTG9391T vs KX-TG9343T), distinct feature sets (2-line vs unspecified, corded/cordless vs cordless only) and price gap indicate they are separate products.", "parse_error": false}, "tokens": 742}

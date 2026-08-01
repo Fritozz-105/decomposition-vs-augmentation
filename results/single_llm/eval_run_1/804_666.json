@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "804", "target_id": "666", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (22\" vs 40\"), distinct model numbers (LN22A650 vs LN40A650), and divergent specifications and price indicate they are separate products.", "parse_error": false}, "tokens": 692}

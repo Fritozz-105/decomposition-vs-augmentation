@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "617", "target_id": "719", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Model numbers differ (ln32a550 vs ln32a650) and series numbers (5 vs 6) are different; specifications such as dynamic contrast ratio and response time also do not match, indicating distinct products.", "parse_error": false}, "tokens": 733}

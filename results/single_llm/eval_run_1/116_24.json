@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "116", "target_id": "24", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different Netgear series (Rangemax vs Prosafe) and distinct model numbers (WPN802NA vs WG102NA). Their descriptions reference different product lines and specifications, indicating they are separate products.", "parse_error": false}, "tokens": 671}

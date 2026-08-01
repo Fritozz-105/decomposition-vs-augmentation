@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "354", "target_id": "384", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Product A is a home tuner (SCH1) with specific home audio features, while Product B is a universal vehicle tuner (SCC1); different model numbers, usage contexts, and price points indicate distinct products.", "parse_error": false}, "tokens": 601}

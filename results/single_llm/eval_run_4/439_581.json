@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "439", "target_id": "581", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (HDRSR10 vs HDRHC9), storage capacity and detailed specs are different, and descriptions do not overlap beyond generic HD camcorder features, indicating distinct products.", "parse_error": false}, "tokens": 698}

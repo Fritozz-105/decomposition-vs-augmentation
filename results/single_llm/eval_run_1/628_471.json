@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "628", "target_id": "471", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and product codes differ (A6 vs A4), and the prices are far apart, indicating distinct products.", "parse_error": false}, "tokens": 662}

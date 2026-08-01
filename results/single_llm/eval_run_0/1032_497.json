@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1032", "target_id": "497", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same Sony model number VCL-DH1774, describe a telephoto converter lens, and mention a black finish; despite sparse description for Product B, the identifiers match, indicating they are the same product.", "parse_error": false}, "tokens": 653}

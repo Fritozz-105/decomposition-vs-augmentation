@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "709", "target_id": "1021", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different screen sizes (32\" vs 42\"), different series and model numbers (M-series KDL32M4000 vs V-series KDL42V4100), and distinct product specifications indicate they are not the same product.", "parse_error": false}, "tokens": 667}

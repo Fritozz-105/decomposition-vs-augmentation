@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "799", "target_id": "991", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a leather camera case (accessory) with model 1588b001, while Product B is a digital camera (Powershot SX10) with model 2665b001; they have different product types, model numbers, and descriptions.", "parse_error": false}, "tokens": 619}

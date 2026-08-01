@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "767", "target_id": "690", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (hl72a650 vs hl56a650) and different screen sizes (72\" vs 56\"), indicating distinct products despite being from the same series.", "parse_error": false}, "tokens": 687}

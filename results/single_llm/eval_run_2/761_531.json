@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "761", "target_id": "531", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same model number (hlc15r), same 15-inch LCD/DVD TV combo, and product A's detailed name matches the generic description in B, indicating they are the same product.", "parse_error": false}, "tokens": 604}

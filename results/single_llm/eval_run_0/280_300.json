@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "280", "target_id": "300", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (KXTGA101S vs KX-TG1033S), product types (expansion handset vs full 3\u2011handset system), and descriptions do not align, indicating they are distinct products.", "parse_error": false}, "tokens": 674}

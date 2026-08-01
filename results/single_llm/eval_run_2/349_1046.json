@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "349", "target_id": "1046", "verdict": "MATCH", "confidence": 0.86, "reasoning": "Both listings use the Chestnut Hill George iPod system name, have identical price, and the model numbers are nearly identical (chs4001 vs chs40001) suggesting a typo; overall they refer to the same product.", "parse_error": false}, "tokens": 647}

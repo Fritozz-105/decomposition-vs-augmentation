@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "153", "target_id": "445", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different model identifiers (dsch2 vs lcs-csj) and mention different materials (polypropylene vs polyamide), indicating they are distinct Sony camera cases despite both being black soft cases.", "parse_error": false}, "tokens": 620}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "40", "target_id": "721", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (STRDE197 vs STRDG520) and the feature sets described are distinct, indicating separate receiver models.", "parse_error": false}, "tokens": 613}

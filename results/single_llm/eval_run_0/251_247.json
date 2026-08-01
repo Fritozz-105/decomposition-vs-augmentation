@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "251", "target_id": "247", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (LCS-TWA/B vs LCS-CSH) and distinct materials (leather vs polypropylene) indicate they are separate cases.", "parse_error": false}, "tokens": 583}

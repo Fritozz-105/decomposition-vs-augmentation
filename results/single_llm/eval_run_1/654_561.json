@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "654", "target_id": "561", "verdict": "MATCH", "confidence": 0.92, "reasoning": "Both listings describe a Panasonic Viera 50\" plasma HDTV with the same resolution and model family; the model numbers differ only by a missing zero, likely a typo, and other specs match.", "parse_error": false}, "tokens": 809}

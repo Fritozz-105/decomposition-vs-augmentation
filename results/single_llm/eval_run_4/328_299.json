@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "328", "target_id": "299", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the same Panasonic model number KX-TG1032S, have similar product type (digital cordless phone), and prices are close; despite differing description detail, they likely refer to the same product.", "parse_error": false}, "tokens": 705}

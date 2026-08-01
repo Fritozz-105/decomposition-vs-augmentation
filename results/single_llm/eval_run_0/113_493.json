@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "113", "target_id": "493", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The items have different product types (coffeemaker vs slow cooker), distinct model numbers (DCC2000 vs PSC-400), and unrelated descriptions, indicating they are not the same product.", "parse_error": false}, "tokens": 581}

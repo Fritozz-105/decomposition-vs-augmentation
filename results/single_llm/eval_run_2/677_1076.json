@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "677", "target_id": "1076", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different series and model numbers (KDL46S4100 vs KDL-46XBR6), distinct feature sets, and only generic size/resolution overlap, indicating separate products.", "parse_error": false}, "tokens": 834}

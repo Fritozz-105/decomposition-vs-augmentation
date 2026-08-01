@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "444", "target_id": "573", "verdict": "MATCH", "confidence": 0.75, "reasoning": "Both listings reference the same Sony DSC-W120 model; differences are only in color (silver vs pink) and description detail, but core specifications and model number match.", "parse_error": false}, "tokens": 845}

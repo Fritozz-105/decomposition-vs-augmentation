@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "654", "target_id": "556", "verdict": "NO MATCH", "confidence": 0.93, "reasoning": "Model numbers differ (th50pz800u vs th-50px80u) and key specs conflict (A lists 1920x1080 full HD, B lists 1366x768), indicating different products.", "parse_error": false}, "tokens": 735}

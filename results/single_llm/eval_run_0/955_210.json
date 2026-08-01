@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "955", "target_id": "210", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (BDPS550 vs DVPCX995V), one is a Blu\u2011ray player and the other a DVD player, and the feature sets and specifications do not overlap, indicating distinct products.", "parse_error": false}, "tokens": 644}

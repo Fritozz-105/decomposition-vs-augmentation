@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "901", "target_id": "993", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (SX110 IS vs SD990 IS), different megapixel counts (9 MP vs 14 MP), different optical zoom ranges, and different colors, indicating they are distinct camera models.", "parse_error": false}, "tokens": 664}

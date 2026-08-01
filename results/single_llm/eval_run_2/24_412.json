@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "24", "target_id": "412", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different model numbers (pm1327bk vs sa750pu), different TV size ranges (13-27\" vs 32-50\"), and different mount types (fixed support tray vs articulating arm), indicating they are distinct products.", "parse_error": false}, "tokens": 685}

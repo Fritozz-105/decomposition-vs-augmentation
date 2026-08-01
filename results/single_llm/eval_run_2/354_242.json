@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "354", "target_id": "242", "verdict": "NO MATCH", "confidence": 0.86, "reasoning": "The product names and model numbers differ (SCH1 vs SUPH1) and descriptions indicate different device types (home tuner vs universal home kit), despite similar price and brand.", "parse_error": false}, "tokens": 688}

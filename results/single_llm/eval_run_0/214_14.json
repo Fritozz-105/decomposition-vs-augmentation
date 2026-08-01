@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "214", "target_id": "14", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and lengths differ (f3h982-10 is a 10\u2011ft cable, f3h982-25 is a 25\u2011ft cable). Despite both being Belkin monitor cables, they are distinct SKUs.", "parse_error": false}, "tokens": 664}

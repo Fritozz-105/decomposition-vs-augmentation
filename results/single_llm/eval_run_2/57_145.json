@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "57", "target_id": "145", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The products have different brand/model identifiers (mx850 vs rmvl600), distinct feature sets, and vastly different prices, indicating they are not the same item.", "parse_error": false}, "tokens": 611}

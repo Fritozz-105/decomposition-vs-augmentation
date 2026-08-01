@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "949", "target_id": "991", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (SD990IS vs SX10 IS) and distinct specifications such as megapixels (14.7 MP vs 10 MP) and optical zoom (3.7x vs 20x), indicating they are different camera models.", "parse_error": false}, "tokens": 682}

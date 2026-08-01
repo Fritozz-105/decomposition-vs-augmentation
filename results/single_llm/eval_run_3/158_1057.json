@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "158", "target_id": "1057", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (DCM390 vs DVD-1800BD), distinct product types (CD player vs Blu-ray/DVD player), and price gap indicate they are not the same product.", "parse_error": false}, "tokens": 655}

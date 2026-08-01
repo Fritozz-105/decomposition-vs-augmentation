@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "181", "target_id": "134", "verdict": "MATCH", "confidence": 0.9, "reasoning": "Both listings refer to the Lowepro Edit 100 case in black; the model number and color match despite one description calling it a camera case and the other a camcorder case, indicating the same product.", "parse_error": false}, "tokens": 626}

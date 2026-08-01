@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "947", "target_id": "543", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (G10 vs SD1100 IS), different megapixel counts (14.7 MP vs 8 MP), different zoom levels, and distinct colors, indicating they are different products.", "parse_error": false}, "tokens": 628}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "381", "target_id": "384", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (SLV2 vs SCC1) and distinct product types; descriptions do not overlap and price differs, indicating separate products.", "parse_error": false}, "tokens": 639}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "686", "target_id": "730", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (TXSR606B vs TXSR506), different channel specifications (7.1 vs likely 5.1), and distinct feature sets in the descriptions, indicating they are separate products.", "parse_error": false}, "tokens": 720}

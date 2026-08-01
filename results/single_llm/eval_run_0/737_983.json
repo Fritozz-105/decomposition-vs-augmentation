@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "737", "target_id": "983", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL40Z4100B vs KDL-19M4000), different screen sizes (40\" vs 19\"), and belong to different series (Z vs M), indicating distinct products.", "parse_error": false}, "tokens": 677}

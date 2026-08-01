@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "679", "target_id": "930", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference a TomTom XL 330 with a 4.3\" touchscreen and similar model numbers (1eg005200 vs garbled 1eg0.052.01), indicating they are the same product despite wording differences.", "parse_error": false}, "tokens": 710}

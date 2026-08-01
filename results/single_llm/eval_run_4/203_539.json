@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "203", "target_id": "539", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different part numbers (010-10723-03 vs 010-10823-03), distinct product names, and a large price discrepancy indicate they are separate items.", "parse_error": false}, "tokens": 648}

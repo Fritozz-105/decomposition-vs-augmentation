@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "643", "target_id": "635", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Model numbers differ (kxtg9344t vs kx-tg9343t), handsets count and features differ (4-handset vs 3-handset), and price gap is significant, indicating distinct products.", "parse_error": false}, "tokens": 765}

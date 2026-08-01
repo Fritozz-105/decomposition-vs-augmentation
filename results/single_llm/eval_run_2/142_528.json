@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "142", "target_id": "528", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Product A is a camera battery (model CGAS007A1B) while Product B is a camcorder (model SDR-H40) with completely different function, specifications, and price; they are clearly different products.", "parse_error": false}, "tokens": 602}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "178", "target_id": "165", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The items have different part numbers (010-10723-06 vs 010-10723-01), distinct functions (12V power adapter vs USB data cable), and prices differ significantly, indicating they are separate products.", "parse_error": false}, "tokens": 662}

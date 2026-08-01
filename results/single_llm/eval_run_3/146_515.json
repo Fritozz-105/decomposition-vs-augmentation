@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "146", "target_id": "515", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (kxtg6700b vs kx-tg4323b), different line capacity (2-line vs 1-line), and distinct feature sets indicate they are separate products.", "parse_error": false}, "tokens": 671}

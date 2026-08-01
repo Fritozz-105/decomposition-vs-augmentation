@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "969", "target_id": "491", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and names differ (9500ix vs 8500/8500x50), and the prices are far apart, indicating distinct radar detector models.", "parse_error": false}, "tokens": 632}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "677", "target_id": "889", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (KDL46S4100 vs KDL40Z4100), different screen sizes (46\" vs 40\"), and belong to different Bravia series (S-series vs Z-series), indicating distinct products.", "parse_error": false}, "tokens": 705}

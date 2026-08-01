@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "378", "target_id": "533", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same model number TCR13 and describe a 13-inch CRT TV/DVD combo; Product B omits the brand but otherwise matches Product A's key identifier.", "parse_error": false}, "tokens": 609}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "982", "target_id": "1037", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Different model numbers (MB471LLA vs MB467LLA), distinct specifications (15.4\" Pro vs 13.3\" non\u2011Pro, different CPUs, graphics, storage), and price gap indicate they are separate products.", "parse_error": false}, "tokens": 795}

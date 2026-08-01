@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1049", "target_id": "244", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings share the core model number 967685 and nearly identical product names, indicating they refer to the same Logitech Dinovo Edge keyboard despite minor SKU suffix and sparse description for Product B.", "parse_error": false}, "tokens": 632}

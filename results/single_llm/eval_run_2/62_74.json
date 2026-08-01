@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "62", "target_id": "74", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (VM1B vs VM400B) and different weight capacities (50\u202flb vs 80\u202flb), indicating they are distinct wall\u2011mount products despite both being Sanus flat\u2011panel TV mounts.", "parse_error": false}, "tokens": 662}

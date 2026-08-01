@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "879", "target_id": "840", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KDL46XBR6 vs KDL-32L4000), screen sizes (46\" vs 32\"), and resolutions (1920x1080 vs 1366x768), indicating they are distinct products.", "parse_error": false}, "tokens": 665}

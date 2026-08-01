@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "799", "target_id": "470", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (1588b001 vs 2349b001), distinct product names (generic black case vs PSC-1000 specific case), and differing descriptions indicate they are separate items.", "parse_error": false}, "tokens": 631}

@@ -1,0 +1,904 @@
+{
+  "aggregates": {
+    "f1": {
+      "multi_agent": {
+        "mean": 0.8972923247673525,
+        "n": 5,
+        "sample_sd": 0.004789267477566676,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.9056603773584906,
+          0.8962264150943396,
+          0.8962264150943396,
+          0.8942307692307693,
+          0.8941176470588236
+        ]
+      },
+      "single_llm": {
+        "mean": 0.9065159129159286,
+        "n": 5,
+        "sample_sd": 0.003852714254346622,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.9061784897025171,
+          0.9041095890410958,
+          0.9016018306636155,
+          0.9103448275862069,
+          0.9103448275862069
+        ]
+      }
+    },
+    "precision": {
+      "multi_agent": {
+        "mean": 0.8754294810798517,
+        "n": 5,
+        "sample_sd": 0.007508025342669549,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.8807339449541285,
+          0.8715596330275229,
+          0.8715596330275229,
+          0.8857142857142857,
+          0.867579908675799
+        ]
+      },
+      "single_llm": {
+        "mean": 0.8585325255480353,
+        "n": 5,
+        "sample_sd": 0.005805463515155435,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.8571428571428571,
+          0.853448275862069,
+          0.8528138528138528,
+          0.8646288209606987,
+          0.8646288209606987
+        ]
+      }
+    },
+    "recall": {
+      "multi_agent": {
+        "mean": 0.9203883495145633,
+        "n": 5,
+        "sample_sd": 0.010635389466119726,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.9320388349514563,
+          0.9223300970873787,
+          0.9223300970873787,
+          0.9029126213592233,
+          0.9223300970873787
+        ]
+      },
+      "single_llm": {
+        "mean": 0.9601941747572816,
+        "n": 5,
+        "sample_sd": 0.0021709397839803773,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          0.9611650485436893,
+          0.9611650485436893,
+          0.9563106796116505,
+          0.9611650485436893,
+          0.9611650485436893
+        ]
+      }
+    },
+    "tokens_per_pair": {
+      "multi_agent": {
+        "mean": 5719.964196242171,
+        "n": 5,
+        "sample_sd": 12.995147705831695,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          5698.524008350731,
+          5720.721294363257,
+          5724.271920668059,
+          5733.7468684759915,
+          5722.556889352818
+        ]
+      },
+      "single_llm": {
+        "mean": 656.0757828810022,
+        "n": 5,
+        "sample_sd": 0.3272738913041666,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          656.5015657620041,
+          655.5923799582464,
+          656.1675365344468,
+          656.0114822546973,
+          656.1059498956158
+        ]
+      }
+    }
+  },
+  "agreement": {
+    "all_pairings": [
+      {
+        "agreement_rate": 0.9869519832985386,
+        "agreements": 1891,
+        "cohen_kappa": 0.9369378383502202,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1863,
+          "c_multi_only_correct": 13,
+          "discordant": 25,
+          "neither_correct": 28
+        },
+        "multi_run": 0,
+        "single_run": 0
+      },
+      {
+        "agreement_rate": 0.9869519832985386,
+        "agreements": 1891,
+        "cohen_kappa": 0.9369378383502202,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1861,
+          "c_multi_only_correct": 11,
+          "discordant": 25,
+          "neither_correct": 30
+        },
+        "multi_run": 1,
+        "single_run": 0
+      },
+      {
+        "agreement_rate": 0.9869519832985386,
+        "agreements": 1891,
+        "cohen_kappa": 0.9369378383502202,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1861,
+          "c_multi_only_correct": 11,
+          "discordant": 25,
+          "neither_correct": 30
+        },
+        "multi_run": 2,
+        "single_run": 0
+      },
+      {
+        "agreement_rate": 0.9848643006263048,
+        "agreements": 1887,
+        "cohen_kappa": 0.9257102211953965,
+        "mcnemar_cells": {
+          "b_single_only_correct": 16,
+          "both_correct": 1859,
+          "c_multi_only_correct": 13,
+          "discordant": 29,
+          "neither_correct": 28
+        },
+        "multi_run": 3,
+        "single_run": 0
+      },
+      {
+        "agreement_rate": 0.9864300626304802,
+        "agreements": 1890,
+        "cohen_kappa": 0.9345406571689123,
+        "mcnemar_cells": {
+          "b_single_only_correct": 15,
+          "both_correct": 1860,
+          "c_multi_only_correct": 11,
+          "discordant": 26,
+          "neither_correct": 30
+        },
+        "multi_run": 4,
+        "single_run": 0
+      },
+      {
+        "agreement_rate": 0.988517745302714,
+        "agreements": 1894,
+        "cohen_kappa": 0.9446132175631496,
+        "mcnemar_cells": {
+          "b_single_only_correct": 10,
+          "both_correct": 1864,
+          "c_multi_only_correct": 12,
+          "discordant": 22,
+          "neither_correct": 30
+        },
+        "multi_run": 0,
+        "single_run": 1
+      },
+      {
+        "agreement_rate": 0.988517745302714,
+        "agreements": 1894,
+        "cohen_kappa": 0.9446132175631496,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1862,
+          "c_multi_only_correct": 10,
+          "discordant": 22,
+          "neither_correct": 32
+        },
+        "multi_run": 1,
+        "single_run": 1
+      },
+      {
+        "agreement_rate": 0.988517745302714,
+        "agreements": 1894,
+        "cohen_kappa": 0.9446132175631496,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1862,
+          "c_multi_only_correct": 10,
+          "discordant": 22,
+          "neither_correct": 32
+        },
+        "multi_run": 2,
+        "single_run": 1
+      },
+      {
+        "agreement_rate": 0.9864300626304802,
+        "agreements": 1890,
+        "cohen_kappa": 0.9335283254518089,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1860,
+          "c_multi_only_correct": 12,
+          "discordant": 26,
+          "neither_correct": 30
+        },
+        "multi_run": 3,
+        "single_run": 1
+      },
+      {
+        "agreement_rate": 0.9879958246346555,
+        "agreements": 1893,
+        "cohen_kappa": 0.9422059016393441,
+        "mcnemar_cells": {
+          "b_single_only_correct": 13,
+          "both_correct": 1861,
+          "c_multi_only_correct": 10,
+          "discordant": 23,
+          "neither_correct": 32
+        },
+        "multi_run": 4,
+        "single_run": 1
+      },
+      {
+        "agreement_rate": 0.9879958246346555,
+        "agreements": 1893,
+        "cohen_kappa": 0.9419828112822024,
+        "mcnemar_cells": {
+          "b_single_only_correct": 10,
+          "both_correct": 1863,
+          "c_multi_only_correct": 13,
+          "discordant": 23,
+          "neither_correct": 30
+        },
+        "multi_run": 0,
+        "single_run": 2
+      },
+      {
+        "agreement_rate": 0.9869519832985386,
+        "agreements": 1891,
+        "cohen_kappa": 0.9369378383502202,
+        "mcnemar_cells": {
+          "b_single_only_correct": 13,
+          "both_correct": 1860,
+          "c_multi_only_correct": 12,
+          "discordant": 25,
+          "neither_correct": 31
+        },
+        "multi_run": 1,
+        "single_run": 2
+      },
+      {
+        "agreement_rate": 0.9869519832985386,
+        "agreements": 1891,
+        "cohen_kappa": 0.9369378383502202,
+        "mcnemar_cells": {
+          "b_single_only_correct": 13,
+          "both_correct": 1860,
+          "c_multi_only_correct": 12,
+          "discordant": 25,
+          "neither_correct": 31
+        },
+        "multi_run": 2,
+        "single_run": 2
+      },
+      {
+        "agreement_rate": 0.9859081419624217,
+        "agreements": 1889,
+        "cohen_kappa": 0.9308336542164035,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1859,
+          "c_multi_only_correct": 13,
+          "discordant": 27,
+          "neither_correct": 30
+        },
+        "multi_run": 3,
+        "single_run": 2
+      },
+      {
+        "agreement_rate": 0.988517745302714,
+        "agreements": 1894,
+        "cohen_kappa": 0.9446113252967718,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1861,
+          "c_multi_only_correct": 10,
+          "discordant": 22,
+          "neither_correct": 33
+        },
+        "multi_run": 4,
+        "single_run": 2
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 10,
+          "both_correct": 1867,
+          "c_multi_only_correct": 9,
+          "discordant": 19,
+          "neither_correct": 30
+        },
+        "multi_run": 0,
+        "single_run": 3
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1865,
+          "c_multi_only_correct": 7,
+          "discordant": 19,
+          "neither_correct": 32
+        },
+        "multi_run": 1,
+        "single_run": 3
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1865,
+          "c_multi_only_correct": 7,
+          "discordant": 19,
+          "neither_correct": 32
+        },
+        "multi_run": 2,
+        "single_run": 3
+      },
+      {
+        "agreement_rate": 0.9879958246346555,
+        "agreements": 1893,
+        "cohen_kappa": 0.9408438755127901,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1863,
+          "c_multi_only_correct": 9,
+          "discordant": 23,
+          "neither_correct": 30
+        },
+        "multi_run": 3,
+        "single_run": 3
+      },
+      {
+        "agreement_rate": 0.9895615866388309,
+        "agreements": 1896,
+        "cohen_kappa": 0.9494503117142833,
+        "mcnemar_cells": {
+          "b_single_only_correct": 13,
+          "both_correct": 1864,
+          "c_multi_only_correct": 7,
+          "discordant": 20,
+          "neither_correct": 32
+        },
+        "multi_run": 4,
+        "single_run": 3
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 10,
+          "both_correct": 1867,
+          "c_multi_only_correct": 9,
+          "discordant": 19,
+          "neither_correct": 30
+        },
+        "multi_run": 0,
+        "single_run": 4
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1865,
+          "c_multi_only_correct": 7,
+          "discordant": 19,
+          "neither_correct": 32
+        },
+        "multi_run": 1,
+        "single_run": 4
+      },
+      {
+        "agreement_rate": 0.9900835073068893,
+        "agreements": 1897,
+        "cohen_kappa": 0.95188525630181,
+        "mcnemar_cells": {
+          "b_single_only_correct": 12,
+          "both_correct": 1865,
+          "c_multi_only_correct": 7,
+          "discordant": 19,
+          "neither_correct": 32
+        },
+        "multi_run": 2,
+        "single_run": 4
+      },
+      {
+        "agreement_rate": 0.9879958246346555,
+        "agreements": 1893,
+        "cohen_kappa": 0.9408438755127901,
+        "mcnemar_cells": {
+          "b_single_only_correct": 14,
+          "both_correct": 1863,
+          "c_multi_only_correct": 9,
+          "discordant": 23,
+          "neither_correct": 30
+        },
+        "multi_run": 3,
+        "single_run": 4
+      },
+      {
+        "agreement_rate": 0.9895615866388309,
+        "agreements": 1896,
+        "cohen_kappa": 0.9494503117142833,
+        "mcnemar_cells": {
+          "b_single_only_correct": 13,
+          "both_correct": 1864,
+          "c_multi_only_correct": 7,
+          "discordant": 20,
+          "neither_correct": 32
+        },
+        "multi_run": 4,
+        "single_run": 4
+      }
+    ],
+    "micro_average": {
+      "agreement_rate": 0.9881628392484343,
+      "agreements": 47333,
+      "decisions": 47900,
+      "note": "Descriptive micro-average over all 25 run pairings. The denominator (47900) is NOT an independent sample size and supports no binomial inference: the same 1,916 pairs recur in every pairing, and those pairs share only 737 unique source and 700 unique target records. Quote it as a descriptive rate or not at all."
+    },
+    "pairing_invariant": {
+      "agreement_rate": {
+        "max": 0.9900835073068893,
+        "mean": 0.9881628392484342,
+        "min": 0.9848643006263048,
+        "sample_sd": 0.0015270082294705299
+      },
+      "cohen_kappa": {
+        "max": 0.95188525630181,
+        "mean": 0.9425536661182558,
+        "min": 0.9257102211953965,
+        "sample_sd": 0.00754228276689219
+      },
+      "n_pairings": 25,
+      "note": "Replaces the previous per-run-index rows. Pairing run i with run i was the same arbitrary alignment that disqualified the paired t-test; these runs are independent executions with no correspondence between their indices.",
+      "pairing_scheme": "all 5 single_llm runs x all 5 multi_agent runs; no run-index alignment is assumed between configurations"
+    }
+  },
+  "caches": {
+    "multi_agent": [
+      {
+        "directory": "results/multi_agent/eval_run_0",
+        "n_records": 1916,
+        "parse_errors": 4,
+        "records_sha256": "f6fe8b490c364b955df8c033cc4f65b34a4a7e98f3b3ca1d4ec68e415e788797",
+        "run": 0,
+        "tokens_per_pair": 5698.524008350731,
+        "tokens_total": 10918372
+      },
+      {
+        "directory": "results/multi_agent/eval_run_1",
+        "n_records": 1916,
+        "parse_errors": 4,
+        "records_sha256": "100950e989826e42f9f231fe32f5e394124025c4625bef7a89da45f1cbb4019e",
+        "run": 1,
+        "tokens_per_pair": 5720.721294363257,
+        "tokens_total": 10960902
+      },
+      {
+        "directory": "results/multi_agent/eval_run_2",
+        "n_records": 1916,
+        "parse_errors": 4,
+        "records_sha256": "c5fac45bffee5cc38a3c13148255db71153e61ccfb18119cb44bd6ebfc0dc1b5",
+        "run": 2,
+        "tokens_per_pair": 5724.271920668059,
+        "tokens_total": 10967705
+      },
+      {
+        "directory": "results/multi_agent/eval_run_3",
+        "n_records": 1916,
+        "parse_errors": 5,
+        "records_sha256": "f8741fa1e974d0f54c0ab09cffbc2ae0baf9111c413c372c64b939de8d131a31",
+        "run": 3,
+        "tokens_per_pair": 5733.7468684759915,
+        "tokens_total": 10985859
+      },
+      {
+        "directory": "results/multi_agent/eval_run_4",
+        "n_records": 1916,
+        "parse_errors": 4,
+        "records_sha256": "66937b221cb855baaf3b74171700a5b08b8d49c68bec1ec34b983042aa1ec4d9",
+        "run": 4,
+        "tokens_per_pair": 5722.556889352818,
+        "tokens_total": 10964419
+      }
+    ],
+    "single_llm": [
+      {
+        "directory": "results/single_llm/eval_run_0",
+        "n_records": 1916,
+        "parse_errors": 0,
+        "records_sha256": "bbe77157342305b63ad32ad38f38d64dfae77e851b1ae266e26c53010bba90f0",
+        "run": 0,
+        "tokens_per_pair": 656.5015657620041,
+        "tokens_total": 1257857
+      },
+      {
+        "directory": "results/single_llm/eval_run_1",
+        "n_records": 1916,
+        "parse_errors": 0,
+        "records_sha256": "173e40c47b9b023a76ae46e974da3f494111f66493b235dc0592244491e781f3",
+        "run": 1,
+        "tokens_per_pair": 655.5923799582464,
+        "tokens_total": 1256115
+      },
+      {
+        "directory": "results/single_llm/eval_run_2",
+        "n_records": 1916,
+        "parse_errors": 0,
+        "records_sha256": "42b320c4fc355baced2f501b7bf9a483a05abc6551ced51e25b30339b997dbb4",
+        "run": 2,
+        "tokens_per_pair": 656.1675365344468,
+        "tokens_total": 1257217
+      },
+      {
+        "directory": "results/single_llm/eval_run_3",
+        "n_records": 1916,
+        "parse_errors": 0,
+        "records_sha256": "7facca09a0a38b2286fa82c926dabde23e88361b4a919e6557210b21589cca0f",
+        "run": 3,
+        "tokens_per_pair": 656.0114822546973,
+        "tokens_total": 1256918
+      },
+      {
+        "directory": "results/single_llm/eval_run_4",
+        "n_records": 1916,
+        "parse_errors": 0,
+        "records_sha256": "452a3cf56c2c3708538fe890c564124aa92faddff829c10f28cea8408ead1bfc",
+        "run": 4,
+        "tokens_per_pair": 656.1059498956158,
+        "tokens_total": 1257099
+      }
+    ]
+  },
+  "dataset": {
+    "key_label_sha256": "c2e8308d7d554c6387158b695793d59b875ce5be31e0f49ea7c34e390a3a8b59",
+    "n_negative": 1710,
+    "n_pairs": 1916,
+    "n_positive": 206,
+    "name": "Abt-Buy",
+    "source": "matchbench/Abt-Buy (HuggingFace)",
+    "split": "test"
+  },
+  "excluded_by_design": {
+    "pair_level_iid_bootstrap": "Removed: the 1,916 pairs are built from only 737 unique source and 700 unique target records, so pair-level iid resampling is invalid.",
+    "paired_t_test": "Removed: pairs arbitrary run indices across two independent configurations; the p-value moves with run ordering.",
+    "pooled_mcnemar": "Removed: the same 1,916 pairs recur across all five runs, so pooling discordant pairs pseudoreplicates them."
+  },
+  "formulas": {
+    "cohen_kappa": "(p_observed - p_expected) / (1 - p_expected)",
+    "f1": "2*tp / (2*tp + fp + fn)",
+    "precision": "tp / (tp + fp)",
+    "recall": "tp / (tp + fn)",
+    "sample_sd": "sqrt(sum((x - mean)^2) / (n - 1))"
+  },
+  "generated_by": "scripts/compute_paper_stats.py",
+  "inference": {
+    "fixed_graph_sensitivity": {
+      "algorithm": "two-way entity-cluster (pigeonhole-style) bootstrap over unique source and target records, crossed with independent within-configuration resampling of run indices",
+      "caveat": "Described as pigeonhole-STYLE: F1 is a nonlinear ratio, whereas Owen's consistency result is stated for means under crossed random effects. Gate-1 finding 2B: Owen's pigeonhole variance is itself approximate and generally conservative even for means, so this is reported as a 95% bootstrap percentile SENSITIVITY RANGE, not a calibrated 95% confidence interval. F1 is smooth while its denominator stays positive, so nonlinearity alone does not invalidate the percentile method, and no BC/BCa correction was added because that would not supply the missing multiway justification.",
+      "citation": {
+        "author": "Art B. Owen",
+        "doi": "10.1214/07-AOAS122",
+        "journal": "Annals of Applied Statistics",
+        "number": "2",
+        "pages": "386--411",
+        "title": "The Pigeonhole Bootstrap",
+        "volume": "1",
+        "year": "2007"
+      },
+      "discarded_replicates": 0,
+      "effect_definition": "mean_f1(single_llm) - mean_f1(multi_agent)",
+      "interval_method": "percentile (2.5%, 97.5%) -- a sensitivity range, not a calibrated confidence interval",
+      "mean_bootstrap_effect": 0.009219840408394258,
+      "point_estimate_source": 0.009223588148576045,
+      "range_includes_zero": true,
+      "range_lower": -0.022579554404703012,
+      "range_upper": 0.04429838281722528,
+      "record_structure": {
+        "max_source_multiplicity": 14,
+        "max_target_multiplicity": 20,
+        "n_pairs": 1916,
+        "note": "This overlap is why pair-level iid resampling is invalid for this benchmark.",
+        "share_pairs_sharing_a_source": 0.8543841336116911,
+        "share_pairs_sharing_a_target": 0.865866388308977,
+        "unique_sources": 737,
+        "unique_targets": 700
+      },
+      "replicates": 50000,
+      "rng": "numpy.random.Generator(PCG64)",
+      "role": "Fixed-test-graph entity-reweighting and execution sensitivity analysis, NOT the primary inference and NOT a cross-catalog result. Gate-1 finding 2A: product weighting only reweights the 1,916 OBSERVED edges. It cannot create new source-target intersections, new label prevalence, or any prediction on an unseen record, so it licenses no claim about another catalog. Gate-1 finding 2C: it combines record-reweighting and execution variability into one joint range, so zero-inclusion cannot be attributed to either source alone.",
+      "seed": 20260730
+    },
+    "permutation_test": {
+      "assumptions": "Conditions on the fixed 1,916-pair Abt-Buy test set. The p-value is exact under the null that the ten executions are EXCHANGEABLE, i.e. identically distributed across configurations -- a stronger null than equality of means. Studentizing gives asymptotic robustness for the weaker equal-means null but does not make the test finite-sample exact for it. Does not assume normality and does not pair run indices.",
+      "claim_scope": "Under the exchangeability null above, supports only: across repeated executions on this fixed Abt-Buy test set, the Single-LLM configuration had higher mean F1 than the Multi-Agent configuration. It does not establish cross-catalog, cross-dataset, or cross-model generalization, and it compares bundled configurations rather than isolating agent decomposition.",
+      "delta_f1": 0.009223588148576045,
+      "effect_definition": "mean(single_llm) - mean(multi_agent)",
+      "effect_direction": "single_llm higher",
+      "extreme_allocations": 6,
+      "p_value": 0.023809523809523808,
+      "p_value_definition": "inclusive proportion of all allocations whose |statistic| is at least the observed |statistic|; complete enumeration, so no Monte Carlo correction is applied",
+      "statistic": 3.355452621998572,
+      "statistic_definition": "(mean(single_llm) - mean(multi_agent)) / sqrt(s_single^2/5 + s_multi^2/5), sample variances (ddof=1)",
+      "test": "exact two-sided unpaired studentized permutation test",
+      "total_allocations": 252,
+      "unit_of_inference": "one stochastic execution (run). Executions are ASSUMED independent and identically distributed; no seeds, invocation ids, timestamps, or provider builds were captured for these runs, so independence is an assumption rather than an established property."
+    }
+  },
+  "per_run": {
+    "multi_agent": [
+      {
+        "accuracy": 0.9791231732776617,
+        "f1": 0.9056603773584906,
+        "fn": 14,
+        "fp": 26,
+        "n": 1916,
+        "precision": 0.8807339449541285,
+        "recall": 0.9320388349514563,
+        "run": 0,
+        "tn": 1684,
+        "tp": 192
+      },
+      {
+        "accuracy": 0.9770354906054279,
+        "f1": 0.8962264150943396,
+        "fn": 16,
+        "fp": 28,
+        "n": 1916,
+        "precision": 0.8715596330275229,
+        "recall": 0.9223300970873787,
+        "run": 1,
+        "tn": 1682,
+        "tp": 190
+      },
+      {
+        "accuracy": 0.9770354906054279,
+        "f1": 0.8962264150943396,
+        "fn": 16,
+        "fp": 28,
+        "n": 1916,
+        "precision": 0.8715596330275229,
+        "recall": 0.9223300970873787,
+        "run": 2,
+        "tn": 1682,
+        "tp": 190
+      },
+      {
+        "accuracy": 0.9770354906054279,
+        "f1": 0.8942307692307693,
+        "fn": 20,
+        "fp": 24,
+        "n": 1916,
+        "precision": 0.8857142857142857,
+        "recall": 0.9029126213592233,
+        "run": 3,
+        "tn": 1686,
+        "tp": 186
+      },
+      {
+        "accuracy": 0.9765135699373695,
+        "f1": 0.8941176470588236,
+        "fn": 16,
+        "fp": 29,
+        "n": 1916,
+        "precision": 0.867579908675799,
+        "recall": 0.9223300970873787,
+        "run": 4,
+        "tn": 1681,
+        "tp": 190
+      }
+    ],
+    "single_llm": [
+      {
+        "accuracy": 0.9786012526096033,
+        "f1": 0.9061784897025171,
+        "fn": 8,
+        "fp": 33,
+        "n": 1916,
+        "precision": 0.8571428571428571,
+        "recall": 0.9611650485436893,
+        "run": 0,
+        "tn": 1677,
+        "tp": 198
+      },
+      {
+        "accuracy": 0.9780793319415448,
+        "f1": 0.9041095890410958,
+        "fn": 8,
+        "fp": 34,
+        "n": 1916,
+        "precision": 0.853448275862069,
+        "recall": 0.9611650485436893,
+        "run": 1,
+        "tn": 1676,
+        "tp": 198
+      },
+      {
+        "accuracy": 0.9775574112734864,
+        "f1": 0.9016018306636155,
+        "fn": 9,
+        "fp": 34,
+        "n": 1916,
+        "precision": 0.8528138528138528,
+        "recall": 0.9563106796116505,
+        "run": 2,
+        "tn": 1676,
+        "tp": 197
+      },
+      {
+        "accuracy": 0.9796450939457203,
+        "f1": 0.9103448275862069,
+        "fn": 8,
+        "fp": 31,
+        "n": 1916,
+        "precision": 0.8646288209606987,
+        "recall": 0.9611650485436893,
+        "run": 3,
+        "tn": 1679,
+        "tp": 198
+      },
+      {
+        "accuracy": 0.9796450939457203,
+        "f1": 0.9103448275862069,
+        "fn": 8,
+        "fp": 31,
+        "n": 1916,
+        "precision": 0.8646288209606987,
+        "recall": 0.9611650485436893,
+        "run": 4,
+        "tn": 1679,
+        "tp": 198
+      }
+    ]
+  },
+  "producer": {
+    "git_dirty": true,
+    "git_head": "unknown",
+    "git_note": "git_head and lockfile_sha256 describe the checkout that generated this file and are expected to differ across clones and commits. The producer_script_sha256 above is the authoritative identifier for this analysis code.",
+    "lockfile_sha256": "5f9507ae69e5665e5f297ca7d047241de10ec85bb85328fae26e5dab62e82425",
+    "numpy_version": "2.4.2",
+    "producer_script": "scripts/compute_paper_stats.py",
+    "producer_script_sha256": "3ada5ef71c3186a259fb499b33287dfc64c633c1ea9599ed9adc42cc0c297c85",
+    "python_version": "3.12.13"
+  },
+  "runtime": {
+    "like_for_like_caveat": "Gate-1 finding 4F, unresolved: nothing in the repository links these timing executions to the prediction caches behind the accuracy numbers. The co-located F1 column in time.txt reads 0.8665 for all five Multi-Agent lines and does not match those caches. Retaining the durations while discarding that F1 is selective use of one source. The vectors are kept by explicit user decision (2026-07-30) with provenance disclosed; they are NOT established as a like-for-like comparison of the same three systems.",
+    "per_configuration": {
+      "magellan_rf": {
+        "label": "Magellan-style Random Forest",
+        "mean": 10.040000000000001,
+        "n": 5,
+        "sample_sd": 0.11401754250991339,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          9.9,
+          10.0,
+          10.0,
+          10.2,
+          10.1
+        ]
+      },
+      "multi_agent": {
+        "label": "Multi-Agent",
+        "mean": 16878.468,
+        "n": 5,
+        "sample_sd": 285.1112267519472,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          17143.29,
+          16820.33,
+          17048.41,
+          16414.62,
+          16965.69
+        ]
+      },
+      "single_llm": {
+        "label": "Single-LLM",
+        "mean": 2538.9199999999996,
+        "n": 5,
+        "sample_sd": 340.43592201763903,
+        "sd_definition": "sample (ddof=1)",
+        "values": [
+          2401.2,
+          2672.2,
+          3066.1,
+          2199.1,
+          2356.0
+        ]
+      }
+    },
+    "provenance": {
+      "excluded_source": "data/evaluation_results.json is NOT used. Its runs were cache hits (Single-LLM 0.19 s total; Multi-Agent SD 7702 s exceeding its own mean of 5934 s), so it contains no usable wall-clock evidence.",
+      "execution_mode": "Sequential LLM calls (no concurrency across pairs).",
+      "hardware": "unknown",
+      "hardware_note": "time.txt records no host, CPU, memory, OS, or network details, and the runs predate this analysis by four months. The current repository host is not evidence of the timing host, so this field is deliberately left unknown rather than backfilled.",
+      "log_curation": "For Single-LLM runs 1 and 2, the harness-printed timings (0.2s and 147.8s) were invalidated by response-cache hits after restarts and were never the true durations. The author recorded the actual full-execution wall-clock times at run time and entered them into the log; the misleading cached prints were removed from the log on 2026-07-31. The durations here are those author-recorded actual times.",
+      "measurement_scope": "One dedicated timing execution per run over the full 1,916-pair labeled test split.",
+      "provider_build": "unknown",
+      "provider_build_note": "The serving build of gpt-oss-120b at run time was not captured. LLM wall-clock time depends on provider-side load and routing, so this is a real and unrecoverable limitation on runtime reproducibility.",
+      "run_date": "2026-03-22",
+      "run_date_basis": "docs/STATE.md session log; time.txt itself carries no timestamps.",
+      "source_file": "time.txt",
+      "source_sha256": "193172db5b0023b3d0718fee886c51dfc6816971f4201674a7221b9d0f6ad52c",
+      "stale_f1_warning": "time.txt also carries an F1 column. Its Multi-Agent entries all read 0.8665, which does NOT match the accuracy caches under results/ (0.9057, 0.8962, 0.8962, 0.8942, 0.8941). The F1 text in time.txt is stale and must be ignored; only the timing columns are authoritative. Accuracy comes exclusively from the validated caches.",
+      "transcribed_on": "2026-07-31",
+      "transcription": "Values copied verbatim from the per-run 'done: ... in <seconds>s' fields. No value was recomputed, rounded, or inferred.",
+      "uncached_claim": "Single-LLM runs 1 and 2 restarted and hit the response cache, so their harness-printed timings were meaningless; the durations retained for them are the actual full-execution wall-clock times the author recorded at run time (see log_curation). The other timing lines are harness prints from uncached executions."
+    },
+    "ratio_multi_over_single": {
+      "definition": "mean(multi_agent) / mean(single_llm)",
+      "rounded": "6.6x",
+      "value": 6.647892804814647
+    },
+    "sd_definition": "sample (ddof=1)"
+  },
+  "schema_version": 1,
+  "source_manifest": {
+    "cache_derived": [
+      "per_run",
+      "aggregates.precision",
+      "aggregates.recall",
+      "aggregates.f1",
+      "aggregates.tokens_per_pair",
+      "agreement",
+      "caches",
+      "inference.permutation_test",
+      "inference.fixed_graph_sensitivity (resampled from cache predictions)"
+    ],
+    "dataset_derived": [
+      "dataset"
+    ],
+    "hardcoded_analysis_choices": [
+      "inference.fixed_graph_sensitivity.seed",
+      "inference.fixed_graph_sensitivity.replicates",
+      "inference.fixed_graph_sensitivity.citation",
+      "schema_version",
+      "formulas"
+    ],
+    "manually_transcribed": [
+      "runtime (transcribed from time.txt; the loader now verifies the transcription against that file's hash and parsed durations)"
+    ],
+    "note": "Gate-1 finding 4A: the previous blanket claim that every value derives from the caches was false. Values have four distinct provenances, separated here.",
+    "rng_output": [
+      "inference.fixed_graph_sensitivity.range_lower",
+      "inference.fixed_graph_sensitivity.range_upper",
+      "inference.fixed_graph_sensitivity.mean_bootstrap_effect"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "95", "target_id": "86", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "Product A is a yellow ink cartridge (cli8y) while Product B is a cyan cartridge (cli-8c); different colors and model numbers indicate distinct products.", "parse_error": false}, "tokens": 615}

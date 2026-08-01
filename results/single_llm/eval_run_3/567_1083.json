@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "567", "target_id": "1083", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (LN52A550 vs LN32A450), screen sizes (52\" vs 32\"), and resolutions (1080p vs 720p) indicate distinct products.", "parse_error": false}, "tokens": 639}

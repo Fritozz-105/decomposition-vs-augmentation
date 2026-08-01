@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "32", "target_id": "636", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (KXTS3282B vs KX-TG9342T), one is a corded phone with 2 lines and LCD display while the other is a cordless phone with a single line, indicating distinct products.", "parse_error": false}, "tokens": 603}

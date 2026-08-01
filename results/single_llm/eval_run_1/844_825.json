@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "844", "target_id": "825", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings differ in target device size (13\" vs 15\"), color (red vs green), and model numbers (mb13... vs mb15...), indicating they are distinct products.", "parse_error": false}, "tokens": 628}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1044", "target_id": "695", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (46\" vs 22\"), different series and model numbers (LN46A850 vs LN22A450), and distinct specifications (full HD vs 720p), indicating they are separate products.", "parse_error": false}, "tokens": 693}

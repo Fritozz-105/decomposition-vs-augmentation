@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "359", "target_id": "52", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (MF209B1 vs VMPL50-B) and different weight capacities (60\u202flb vs 130\u202flb), indicating they are distinct wall mount products despite both being Sanus flat\u2011panel TV mounts.", "parse_error": false}, "tokens": 640}

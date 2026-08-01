@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "762", "target_id": "51", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The model numbers differ (RS130 vs RS120) indicating distinct products, and there is no overlapping description to suggest they are the same despite similar brand and category.", "parse_error": false}, "tokens": 580}

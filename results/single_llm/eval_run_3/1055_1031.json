@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1055", "target_id": "1031", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different series (FW vs CS), distinct model numbers, screen sizes, CPUs, and colors, indicating they are separate products despite some overlapping specs like 320\u202fGB HDD and Blu\u2011ray drive.", "parse_error": false}, "tokens": 832}

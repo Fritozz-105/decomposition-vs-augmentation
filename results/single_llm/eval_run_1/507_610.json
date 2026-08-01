@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "507", "target_id": "610", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings reference the same Panasonic Viera model number (TC-26LX85), same 26\" LCD HDTV size and similar description; price difference is irrelevant as one price is missing, indicating they are the same product.", "parse_error": false}, "tokens": 707}

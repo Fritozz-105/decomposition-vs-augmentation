@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "305", "target_id": "398", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings reference the identical model number TCD652160 and very similar product names; description of A matches the capabilities implied by B's title. Price difference is irrelevant as A lacks a price.", "parse_error": false}, "tokens": 628}

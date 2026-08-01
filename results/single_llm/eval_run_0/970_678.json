@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "970", "target_id": "678", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (v470 vs v450 nano) and part numbers, distinct feature sets, and the descriptions do not overlap beyond generic laser mouse terminology, indicating they are different products.", "parse_error": false}, "tokens": 630}

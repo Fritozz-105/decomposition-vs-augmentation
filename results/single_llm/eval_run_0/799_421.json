@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "799", "target_id": "421", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (1588b001 vs 2350b001), distinct color descriptions (black vs burgundy), and product titles differ, indicating they are separate camera cases.", "parse_error": false}, "tokens": 604}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "567", "target_id": "658", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ in screen size (LN52A550 vs LN46A550) and the listed sizes are 52\" vs 46\", indicating distinct product variants rather than the same item.", "parse_error": false}, "tokens": 667}

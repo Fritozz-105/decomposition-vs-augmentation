@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "941", "target_id": "418", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (50D vs 40D), different megapixel counts, lens inclusion vs body only, and distinct specifications indicate they are separate products.", "parse_error": false}, "tokens": 645}

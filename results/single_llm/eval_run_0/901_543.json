@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "901", "target_id": "543", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different model numbers (SX110IS vs SD1100), different colors, and distinct specifications (9MP/10x zoom vs 8MP/3x zoom), indicating they are separate camera models.", "parse_error": false}, "tokens": 686}

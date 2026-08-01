@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "740", "target_id": "1076", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different series and model numbers (KDL46Z4100B vs KDL-46XBR6), distinct feature sets, and only share generic attributes like 46\" size and 1080p resolution, indicating they are different products.", "parse_error": false}, "tokens": 794}

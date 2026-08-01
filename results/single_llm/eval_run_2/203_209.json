@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "203", "target_id": "209", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The two listings have different Garmin part numbers (010-10723-03 vs 010-10609-00) and describe different mounts; despite similar categories, the distinct model numbers indicate they are not the same product.", "parse_error": false}, "tokens": 668}

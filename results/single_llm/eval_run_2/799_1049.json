@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "799", "target_id": "1049", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model numbers (1588b001 vs 3528b001), distinct product names, and no overlapping description details, indicating they are different camera cases.", "parse_error": false}, "tokens": 626}

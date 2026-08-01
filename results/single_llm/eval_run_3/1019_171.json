@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1019", "target_id": "171", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The items have different model numbers (WPC600N vs WAP4400N), serve different functions (USB adapter vs access point), and descriptions do not overlap beyond generic wireless-n terminology.", "parse_error": false}, "tokens": 595}

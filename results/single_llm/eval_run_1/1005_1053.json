@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1005", "target_id": "1053", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings share the same brand, model number (IMT702), and product name components (InMotion Max portable speaker for iPhone), indicating they refer to the same product despite minor wording differences.", "parse_error": false}, "tokens": 627}

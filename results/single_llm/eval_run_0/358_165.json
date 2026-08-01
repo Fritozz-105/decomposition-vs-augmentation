@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "358", "target_id": "165", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings use the same Garmin part number (0101072301 vs 010-10723-01) and describe a USB cable for Garmin devices, indicating they refer to the same product despite minor naming differences.", "parse_error": false}, "tokens": 672}

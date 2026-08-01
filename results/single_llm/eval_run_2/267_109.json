@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "267", "target_id": "109", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The two listings have different model numbers (nn-sn667b vs nn-h965wf), different capacities (1.2 cu ft vs 2.2 cu ft), different colors (black vs white) and different power ratings, indicating they are distinct products.", "parse_error": false}, "tokens": 667}

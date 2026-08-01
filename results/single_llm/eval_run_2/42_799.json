@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "42", "target_id": "799", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Product A is a Maytag model (mmv5207bk) with specific features, while Product B is an LG microwave; different brands indicate distinct products despite similar capacity.", "parse_error": false}, "tokens": 586}

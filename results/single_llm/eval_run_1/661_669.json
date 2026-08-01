@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "661", "target_id": "669", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings use the same Sony model number MSMT8G, 8GB capacity, and refer to a Memory Stick Pro Duo card; product B omits 'Mark 2' but the model number matches, indicating they are the same item despite price info only in B.", "parse_error": false}, "tokens": 639}

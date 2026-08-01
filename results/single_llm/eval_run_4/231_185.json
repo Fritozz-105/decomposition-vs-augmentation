@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "231", "target_id": "185", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings reference LG wdp3 pedestal with drawer; the model number matches. The only differences are color (red vs blue) and mention of height, which are typical product variants, indicating they are the same product line.", "parse_error": false}, "tokens": 652}

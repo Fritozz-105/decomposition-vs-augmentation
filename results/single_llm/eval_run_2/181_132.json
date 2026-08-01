@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "181", "target_id": "132", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "The two listings have different model identifiers (Edit100 vs Rezo 15) and distinct product lines, indicating they are separate camera cases despite both being black Lowepro cases.", "parse_error": false}, "tokens": 613}

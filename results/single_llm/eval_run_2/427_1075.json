@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "427", "target_id": "1075", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers and product types differ: A is a KX-TGA820B cordless handset compatible with TG8231/8232, while B is a KX-TG9391T two-line corded/cordless combo. Different specifications indicate distinct products.", "parse_error": false}, "tokens": 676}

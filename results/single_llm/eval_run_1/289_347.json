@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "289", "target_id": "347", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (nnsd767s vs nnsd967s), capacities are different (1.6 cu ft vs 2.2 cu ft), and the product names indicate distinct models, indicating they are not the same product.", "parse_error": false}, "tokens": 638}

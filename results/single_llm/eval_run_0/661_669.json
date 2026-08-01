@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "661", "target_id": "669", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings specify Sony 8GB Memory Stick Pro Duo with model number MSMT8G; Product A adds 'Mark 2' but that is part of the same model. Descriptions and capacities align, and price difference is not contradictory.", "parse_error": false}, "tokens": 629}

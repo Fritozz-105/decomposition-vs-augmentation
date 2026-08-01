@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "14", "target_id": "460", "verdict": "NO MATCH", "confidence": 0.97, "reasoning": "The model numbers differ (kxtca86 vs kx-tga820b), product types are distinct (hands\u2011free headset vs cordless handset), and the prices are far apart, indicating they are different products.", "parse_error": false}, "tokens": 610}

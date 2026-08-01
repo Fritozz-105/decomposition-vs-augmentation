@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "714", "target_id": "789", "verdict": "MATCH", "confidence": 0.78, "reasoning": "Both listings describe an LG freestanding gas range with a 5.0 cu ft capacity; the generic name in B matches the detailed name and specs in A, and there is no conflicting information.", "parse_error": false}, "tokens": 661}

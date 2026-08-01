@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "924", "target_id": "742", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different Yamaha model numbers (YAS-71 vs YHT-390BL), distinct product names, and differing specifications such as power output (210W vs 600W RMS) and feature sets, indicating they are separate products.", "parse_error": false}, "tokens": 654}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "666", "target_id": "694", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 19\"), distinct model numbers (LN52A750 vs LN19A650), and belong to different Samsung series, indicating they are separate products.", "parse_error": false}, "tokens": 664}

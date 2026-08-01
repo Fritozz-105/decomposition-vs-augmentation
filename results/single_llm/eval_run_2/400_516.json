@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "400", "target_id": "516", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (KX-TG8232B vs KX-TG4324B) and product descriptions indicate different handset counts and features, indicating distinct products.", "parse_error": false}, "tokens": 718}

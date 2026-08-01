@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "334", "target_id": "179", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (KX-TS620W vs KX-TSC14W) and specifications such as line count and features are not the same, indicating distinct products.", "parse_error": false}, "tokens": 656}

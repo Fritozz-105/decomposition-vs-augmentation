@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1023", "target_id": "110", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The items have different model numbers and functions: one is a WVC54GCA camera, the other is a WRT54GL router, indicating distinct products.", "parse_error": false}, "tokens": 610}

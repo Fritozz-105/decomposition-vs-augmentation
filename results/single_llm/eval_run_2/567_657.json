@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "567", "target_id": "657", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same Samsung model number LN52A550 with identical screen size, resolution, contrast ratio, response time, and color description, indicating they are the same product despite minor wording differences.", "parse_error": false}, "tokens": 718}

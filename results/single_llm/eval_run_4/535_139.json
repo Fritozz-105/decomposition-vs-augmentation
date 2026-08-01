@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "535", "target_id": "139", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (KX-TG9333T vs KX-TG4500B) and product types (cordless only vs corded/cordless combo) indicate distinct products.", "parse_error": false}, "tokens": 653}

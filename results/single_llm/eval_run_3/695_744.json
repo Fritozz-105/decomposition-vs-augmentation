@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "695", "target_id": "744", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings reference the same Samsung model number (hl67a750), identical screen size, resolution, DLP technology and contrast ratio, indicating they describe the same product despite missing description and price in A.", "parse_error": false}, "tokens": 724}

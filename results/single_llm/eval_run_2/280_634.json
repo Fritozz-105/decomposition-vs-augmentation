@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "280", "target_id": "634", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (kxtga101s vs kx-tg9344t), one is an expansion handset/charger for 1000 series while the other is a full cordless phone model, and prices differ substantially, indicating distinct products.", "parse_error": false}, "tokens": 657}

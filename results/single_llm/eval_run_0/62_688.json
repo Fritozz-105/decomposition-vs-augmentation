@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "62", "target_id": "688", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (vm1b vs lt25-b1) and weight capacities (50\u202flb vs 175\u202flb) indicate distinct products despite both being Sanus wall mounts.", "parse_error": false}, "tokens": 615}

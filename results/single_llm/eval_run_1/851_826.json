@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "851", "target_id": "826", "verdict": "NO MATCH", "confidence": 0.92, "reasoning": "Both are Speck Seethru cases for a 15\" MacBook Pro, but the model numbers and color descriptors differ (pink vs orange), indicating distinct SKUs rather than the same product.", "parse_error": false}, "tokens": 715}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "269", "target_id": "348", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "Both listings share the same base model (nnsn667) and size, but they differ in color suffix (wh vs b) and price, indicating distinct SKUs rather than the identical product.", "parse_error": false}, "tokens": 861}

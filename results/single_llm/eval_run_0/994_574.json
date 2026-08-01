@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "994", "target_id": "574", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different brands (Olympus vs Sony) and distinct model numbers (SP565UZ vs DSC-T300). Specifications differ (zoom range, LCD size) despite similar megapixel count, indicating separate products.", "parse_error": false}, "tokens": 646}

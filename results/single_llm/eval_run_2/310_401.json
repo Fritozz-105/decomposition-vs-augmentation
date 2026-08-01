@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "310", "target_id": "401", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the Sony VRDMC5 model; names and key specifications (multi-function DVD recorder, digital video recorder, memory card slots) align, and the price difference is not contradictory since Product A lacks a price.", "parse_error": false}, "tokens": 719}

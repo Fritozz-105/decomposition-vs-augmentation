@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "44", "target_id": "195", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (SCDCE595 vs CDP-CE375), distinct feature sets (SACD support vs basic CD/R/RW changer), and price gap indicate they are separate products.", "parse_error": false}, "tokens": 646}

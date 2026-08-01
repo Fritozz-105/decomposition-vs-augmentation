@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "148", "target_id": "355", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different focal length ranges (55-200mm vs 18-200mm), distinct model identifiers, and vastly different prices, indicating they are separate lens models.", "parse_error": false}, "tokens": 655}

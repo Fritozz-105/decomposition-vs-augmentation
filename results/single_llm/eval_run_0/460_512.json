@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "460", "target_id": "512", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The two listings have different screen sizes (52\" vs 37\"), distinct model numbers (LC52SE94U vs LC37D44U), and differing specifications such as resolution and contrast ratio, indicating they are separate products.", "parse_error": false}, "tokens": 714}

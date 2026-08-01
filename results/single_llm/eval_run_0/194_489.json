@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "194", "target_id": "489", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "The items have different model numbers (WRV54G vs WUSB600N), distinct product types (router vs USB adapter), and unrelated specifications, indicating they are not the same product.", "parse_error": false}, "tokens": 573}

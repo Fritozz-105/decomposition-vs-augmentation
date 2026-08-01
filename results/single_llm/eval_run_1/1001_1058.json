@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1001", "target_id": "1058", "verdict": "MATCH", "confidence": 0.93, "reasoning": "Both listings describe a Canon EOS 5D Mark II DSLR with 21.1\u202fMP sensor and similar LCD specs; despite price difference (likely due to packaging or retailer), the model and key specifications match.", "parse_error": false}, "tokens": 767}

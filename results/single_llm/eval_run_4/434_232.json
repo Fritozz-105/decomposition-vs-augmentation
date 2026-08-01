@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "434", "target_id": "232", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (CLI8B vs PG-40), distinct product names, and a large price discrepancy, indicating they are different ink cartridges.", "parse_error": false}, "tokens": 572}

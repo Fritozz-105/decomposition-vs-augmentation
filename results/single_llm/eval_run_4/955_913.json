@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "955", "target_id": "913", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings reference the Sony BDPS550 model (bdps550 vs bdp-s550) with identical product type and specifications; price difference is irrelevant as one listing lacks a price.", "parse_error": false}, "tokens": 617}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "642", "target_id": "234", "verdict": "MATCH", "confidence": 0.85, "reasoning": "Both listings use the Hoover Empower name and the core model identifier u5269 (with a -900 suffix in B). The slight variation likely reflects a variant or full model number, indicating they refer to the same vacuum.", "parse_error": false}, "tokens": 583}

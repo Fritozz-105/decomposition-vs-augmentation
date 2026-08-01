@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "399", "target_id": "92", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The listings have different model numbers (PLAV70UNLPS vs ST660P), distinct mount types (articulating dual arm vs universal tilt), and different screen size ranges, indicating they are separate products.", "parse_error": false}, "tokens": 695}

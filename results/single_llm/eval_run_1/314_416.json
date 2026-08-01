@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "314", "target_id": "416", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The two listings have different model numbers (AVR4308CI vs AVR3808CI), distinct feature sets, and a large price gap, indicating they are separate products.", "parse_error": false}, "tokens": 746}

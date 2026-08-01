@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "485", "target_id": "551", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings refer to the Canon Pixma MX850 all-in-one printer; the model number and key features match despite minor naming differences (mx850c vs mx850 and different SKU).", "parse_error": false}, "tokens": 607}

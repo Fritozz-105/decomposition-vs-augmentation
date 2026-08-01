@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "861", "target_id": "977", "verdict": "NO MATCH", "confidence": 0.98, "reasoning": "Different Vaio series and model numbers (VGN-Z570NB vs VGN-AW110J/H), distinct screen sizes (13.3\" vs 18.4\"), CPU, GPU, and other specs differ, indicating separate products.", "parse_error": false}, "tokens": 870}

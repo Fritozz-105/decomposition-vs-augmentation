@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1007", "target_id": "424", "verdict": "NO MATCH", "confidence": 0.7, "reasoning": "Product A includes a specific model number (DLE0442WH) and detailed specs, while Product B is a generic name with no model or details, making it unclear if they refer to the same item.", "parse_error": false}, "tokens": 666}

@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "191", "target_id": "516", "verdict": "NO MATCH", "confidence": 0.85, "reasoning": "The model numbers differ (kx-tga450b vs kx-tg4324b) and the descriptions list different features; despite both being Panasonic 5.8\u202fGHz cordless phones, they appear to be distinct models.", "parse_error": false}, "tokens": 721}

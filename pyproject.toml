@@ -1,0 +1,24 @@
+[project]
+name = "decomposition-vs-augmentation"
+version = "0.1.0"
+description = "Decomposition vs Augmentation: Isolating the Impact of Multi-Agent Architectures in Entity Resolution"
+authors = [{name = "Zachary Zeng", email = "zengz1@ufl.edu"}]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "huggingface-hub>=0.20",
+    "pandas>=2.0",
+    "scikit-learn>=1.4",
+    "openai>=1.0",
+    "python-dotenv>=1.0",
+    "fastmcp>=2.0",
+    "sentence-transformers>=2.7",
+    "rank-bm25>=0.2",
+    "jellyfish>=0.11",
+]
+
+[dependency-groups]
+dev = [
+    "matplotlib>=3.10.8",
+    "pytest>=8.0",
+]

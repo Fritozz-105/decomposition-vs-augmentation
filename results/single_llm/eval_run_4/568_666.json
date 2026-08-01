@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "568", "target_id": "666", "verdict": "MATCH", "confidence": 0.96, "reasoning": "Both listings reference the identical model number LN40A650, same 40\" LCD HDTV specs (1080p, 120Hz, 4ms, 50,000:1 contrast), and descriptions overlap; price difference is irrelevant as one listing lacks a price.", "parse_error": false}, "tokens": 663}

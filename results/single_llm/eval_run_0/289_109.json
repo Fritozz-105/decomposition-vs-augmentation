@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "289", "target_id": "109", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "The model numbers differ (nnsd767s vs nn-h965wf), capacities are different (1.6 cu ft vs 2.2 cu ft), and finishes differ (stainless steel vs white), indicating distinct products despite similar power rating.", "parse_error": false}, "tokens": 684}

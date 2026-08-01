@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "248", "target_id": "452", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is Office Home & Student 2007 for Windows (code 79g00007) while Product B is Office Home & Student 2008 for Mac (code GZA-00006); different year, platform, and product codes indicate distinct products.", "parse_error": false}, "tokens": 637}

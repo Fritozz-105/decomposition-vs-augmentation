@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "167", "target_id": "72", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (ml22b1 vs vm400s), different size range and weight capacity, and distinct descriptions indicate they are separate products.", "parse_error": false}, "tokens": 620}

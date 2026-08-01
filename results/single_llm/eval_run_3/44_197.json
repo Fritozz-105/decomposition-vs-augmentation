@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "44", "target_id": "197", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Different model numbers (scdce595 vs cdp-cx455), distinct feature sets (SACD support vs CD changer), and price discrepancy indicate they are separate products.", "parse_error": false}, "tokens": 663}

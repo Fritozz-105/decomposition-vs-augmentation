@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1034", "target_id": "463", "verdict": "MATCH", "confidence": 0.95, "reasoning": "Both listings reference the same model number DMA2100 and similar product name; the only difference is the color adjective, which does not indicate a different product.", "parse_error": false}, "tokens": 545}

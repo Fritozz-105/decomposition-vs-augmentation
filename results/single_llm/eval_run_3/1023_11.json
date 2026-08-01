@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "1023", "target_id": "11", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "Product A is a wireless camera (WVC54GCA) with video/audio features, while Product B is a wireless bridge (WET54G) with networking specs; different model numbers and functionalities indicate distinct products.", "parse_error": false}, "tokens": 638}

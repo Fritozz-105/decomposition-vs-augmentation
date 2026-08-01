@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "78", "target_id": "445", "verdict": "NO MATCH", "confidence": 0.7, "reasoning": "Names and descriptions are similar but the model numbers differ (lcscst vs lcscsj), indicating distinct SKUs; slight material wording differences also suggest separate products.", "parse_error": false}, "tokens": 672}

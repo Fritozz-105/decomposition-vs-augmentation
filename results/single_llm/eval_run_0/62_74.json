@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "62", "target_id": "74", "verdict": "NO MATCH", "confidence": 0.95, "reasoning": "Different model numbers (vm1b vs vm400b), different weight capacities (50\u202flb vs 80\u202flb) and no overlapping specifications indicate they are distinct products.", "parse_error": false}, "tokens": 664}

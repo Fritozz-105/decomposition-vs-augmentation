@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "91", "target_id": "271", "verdict": "NO MATCH", "confidence": 0.96, "reasoning": "One is a cyan ink tank (CLI8C) for multiple Pixma models, the other is a red ink tank (CLI-8) for a specific Pro9000 printer; colors, model numbers and compatible printers differ.", "parse_error": false}, "tokens": 624}

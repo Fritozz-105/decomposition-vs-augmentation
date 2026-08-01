@@ -1,0 +1,1 @@
+{"prediction": {"source_id": "238", "target_id": "604", "verdict": "NO MATCH", "confidence": 0.99, "reasoning": "Different model numbers (NXU10 vs NS-AW190), distinct product types (USB powered stereo speaker vs all-weather speaker system), and price disparity indicate they are not the same product.", "parse_error": false}, "tokens": 618}

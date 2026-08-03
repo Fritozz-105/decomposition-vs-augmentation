@@ -15,15 +15,13 @@ __pycache__/
 .vscode/
 .idea/
 
+# Local isolated worktrees
+.worktrees/
+
 # OS
 .DS_Store
 Thumbs.db
 
-# LaTeX build artifacts
-paper/*.aux
-paper/*.bbl
-paper/*.blg
-paper/*.log
-paper/*.out
-paper/*.toc
-paper/*.synctex.gz
+# Poster build outputs
+poster/*.pptx
+poster/*.png
